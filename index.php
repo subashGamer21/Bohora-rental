@@ -1,0 +1,12 @@
+<?php include('header.php') ?>
+<?php include('parts/pickupservice.php') ?>
+<?php include('parts/about.php') ?>
+<?php include('parts/carservices.php') ?>
+<?php include('parts/funFact.php') ?>
+<?php include('parts/popularCar.php') ?>
+<?php include('parts/Testimonial.php') ?>
+<?php include('parts/gallery.php') ?>
+<?php include('parts/news.php') ?>
+<?php include('parts/ctaRental.php') ?>
+<?php include('parts/ctaCheap.php') ?>
+<?php include('footer.php') ?>
