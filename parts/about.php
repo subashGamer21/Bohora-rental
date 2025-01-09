@@ -32,25 +32,18 @@
                                     <img src="img/sub-icon.png" alt="icon-img" class="wow fadeInUp">
                                     <span class="wow fadeInUp" data-wow-delay=".2s">Get to know us</span>
                                     <h2 class="wow fadeInUp" data-wow-delay=".4s">
-                                        Services with a Wide
-                                        Range of Cars
+                                       Why Us?
                                     </h2>
                                 </div>
                                 <h4 class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".3s">
                                     committed to providing our customers with exceptional service.
                                 </h4>
                                 <p class="wow fadeInUp" data-wow-delay=".5s">
-                                Our mission is to provide safe, reliable, and personalized transportation services that leave lasting memories. Whether you're a tourist, a professional, or an adventurer, we are here to ensure your journey is seamless and enjoyable.
+                                At Bohara Car Rental, we pride ourselves on being one of the most trusted car rental services in Nepal. With over 15 years of professional driving experience, we have built a reputation for reliability, comfort, and excellent customer service. Whether you're traveling for business or leisure, we aim to make your journey seamless, safe, and memorable.
+Our rental service comes with a dedicated, experienced driver who is highly skilled, also polite, patient, and knowledgeable about Nepal’s diverse landscapes and road conditions. From the bustling streets of Kathmandu to the serene beauty of Pokhara, we’ll take you wherever you need to go with ease and comfort.
+
                                 </p>
                                 <div class="about-list-item wow fadeInUp" data-wow-delay=".7s">
-                                    <ul>
-                                        <li>
-                                            Many Pickup Locations
-                                        </li>
-                                        <li>
-                                            Offering Low Prices
-                                        </li>
-                                    </ul>
                                     <ul>
                                         <li>
                                             Many Pickup Locations

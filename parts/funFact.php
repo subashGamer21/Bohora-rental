@@ -20,7 +20,7 @@
                                     <div class="icon">
                                         <img src="img/icon/car.png" alt="img">
                                     </div>
-                                    <h2><span class="count">990</span></h2>
+                                    <h2><span class="count">100</span></h2>
                                     <p>
                                         Cars <br>
                                         rentouts
@@ -30,7 +30,7 @@
                                     <div class="icon">
                                         <img src="img/icon/center.png" alt="img">
                                     </div>
-                                    <h2><span class="count">230</span></h2>
+                                    <h2><span class="count">30</span></h2>
                                     <p>
                                         Center <br>
                                         solutions
@@ -40,7 +40,7 @@
                                     <div class="icon">
                                         <img src="img/icon/like.png" alt="img">
                                     </div>
-                                    <h2><span class="count">660</span></h2>
+                                    <h2><span class="count">200</span></h2>
                                     <p>
                                         happy <br>
                                         customers

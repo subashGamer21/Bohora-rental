@@ -1,4 +1,26 @@
 <?php include('header.php') ?>
+
+ <!--<< Breadcrumb Section Start >>-->
+ <div class="breadcrumb-wrapper bg-cover" style="background-image: url('img/bg-header-banner.jpg');">
+            <div class="container">
+                <div class="page-heading">
+                    <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
+                        <li>
+                            <a href="index.php">
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <i class="fas fa-chevron-right"></i>
+                        </li>
+                        <li>
+                            Contact
+                        </li>
+                    </ul>
+                    <h1 class="wow fadeInUp" data-wow-delay=".5s">Grid Style</h1>
+                </div>
+            </div>
+        </div>
         <!-- Contact Section Start -->
         <section class="contact-section-1 fix section-padding pb-0">
             <div class="container">

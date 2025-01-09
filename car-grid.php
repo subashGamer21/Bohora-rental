@@ -5,7 +5,7 @@
                 <div class="page-heading">
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
                         <li>
-                            <a href="indexphp">
+                            <a href="index.php">
                                 Home
                             </a>
                         </li>
@@ -28,11 +28,11 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="car-rentals-items mt-0">
                             <div class="car-image">
-                                <img src="img/car/05.jpg" alt="img">
+                                <img src="img/Cars/peugeot_308.jpg" alt="img">
                             </div>
                             <div class="car-content">
                                 <div class="post-cat">
-                                    2024 Model
+                                    2015 Model
                                 </div>
                                 <div class="star">
                                     <i class="fa-solid fa-star"></i>
@@ -40,25 +40,25 @@
                                     <i class="fa-solid fa-star"></i>
                                     <i class="fa-solid fa-star"></i>
                                     <i class="fa-solid fa-star"></i>
-                                    <span>2 Reviews</span>
+                                   <span>2 Reviews</span> 
                                 </div>
-                                <h4><a href="car-detailsphp">Hyundai Accent Limited</a></h4>
+                                <h4><a href="car-details.php">peugeot 308</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
                                             <img src="img/car/seat.svg" alt="img" class="me-1">
-                                            6 Seats
+                                            5 Seats
                                         </li>
                                         <li>
                                             <img src="img/car/door.svg" alt="img" class="me-1">
-                                            2 Doors
+                                            5 Doors
                                         </li>
                                     </ul>
                                     <ul>
                                         <li>
                                             <img src="img/car/automatic.svg" alt="img" class="me-1">
-                                            Automatic
+                                            Automatic and Manual
                                         </li>
                                         <li>
                                             <img src="img/car/petrol.svg" alt="img" class="me-1">
@@ -66,18 +66,18 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-detailsphp" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
                         <div class="car-rentals-items mt-0">
                             <div class="car-image">
-                                <img src="img/car/06.jpg" alt="img">
+                                <img src="img/Cars/navara.jpg" alt="img">
                             </div>
                             <div class="car-content">
                                 <div class="post-cat">
-                                    2024 Model
+                                    2015 Model
                                 </div>
                                 <div class="star">
                                     <i class="fa-solid fa-star"></i>
@@ -87,42 +87,42 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-detailsphp">Hyundai Accent Limited</a></h4>
+                                <h4><a href="car-details.php">Navara</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
                                             <img src="img/car/seat.svg" alt="img" class="me-1">
-                                            6 Seats
+                                            5 Seats
                                         </li>
                                         <li>
                                             <img src="img/car/door.svg" alt="img" class="me-1">
-                                            2 Doors
+                                            4 Doors (Double cab)
                                         </li>
                                     </ul>
                                     <ul>
                                         <li>
                                             <img src="img/car/automatic.svg" alt="img" class="me-1">
-                                            Automatic
+                                            Automatic and Manual
                                         </li>
                                         <li>
                                             <img src="img/car/petrol.svg" alt="img" class="me-1">
-                                            Petrol
+                                            Diesel
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-detailsphp" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                         <div class="car-rentals-items mt-0">
                             <div class="car-image">
-                                <img src="img/car/07.jpg" alt="img">
+                                <img src="img/Cars/ford_ecosport_trend.jpg" alt="img">
                             </div>
                             <div class="car-content">
                                 <div class="post-cat">
-                                    2024 Model
+                                    2027 Model
                                 </div>
                                 <div class="star">
                                     <i class="fa-solid fa-star"></i>
@@ -132,23 +132,23 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-detailsphp">Hyundai Accent Limited</a></h4>
+                                <h4><a href="car-details.php">Ford Ecosport Trend</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
                                             <img src="img/car/seat.svg" alt="img" class="me-1">
-                                            6 Seats
+                                            5 Seats
                                         </li>
                                         <li>
                                             <img src="img/car/door.svg" alt="img" class="me-1">
-                                            2 Doors
+                                            5 Doors
                                         </li>
                                     </ul>
                                     <ul>
                                         <li>
                                             <img src="img/car/automatic.svg" alt="img" class="me-1">
-                                            Automatic
+                                            Automatic and Manual
                                         </li>
                                         <li>
                                             <img src="img/car/petrol.svg" alt="img" class="me-1">
@@ -156,18 +156,18 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-detailsphp" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="car-rentals-items mt-0">
                             <div class="car-image">
-                                <img src="img/car/08.jpg" alt="img">
+                                <img src="img/Cars/mitsubhi.jpg" alt="img">
                             </div>
                             <div class="car-content">
                                 <div class="post-cat">
-                                    2024 Model
+                                    2015 Model
                                 </div>
                                 <div class="star">
                                     <i class="fa-solid fa-star"></i>
@@ -177,17 +177,17 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-detailsphp">Hyundai Accent Limited</a></h4>
+                                <h4><a href="car-details.php">Mitsubishi Pajero Exceed</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
                                             <img src="img/car/seat.svg" alt="img" class="me-1">
-                                            6 Seats
+                                            7 Seats
                                         </li>
                                         <li>
                                             <img src="img/car/door.svg" alt="img" class="me-1">
-                                            2 Doors
+                                            5 Doors
                                         </li>
                                     </ul>
                                     <ul>
@@ -197,11 +197,11 @@
                                         </li>
                                         <li>
                                             <img src="img/car/petrol.svg" alt="img" class="me-1">
-                                            Petrol
+                                            Diesel
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-detailsphp" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -212,7 +212,7 @@
                             </div>
                             <div class="car-content">
                                 <div class="post-cat">
-                                    2024 Model
+                                    2018 Model
                                 </div>
                                 <div class="star">
                                     <i class="fa-solid fa-star"></i>
@@ -222,17 +222,17 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-detailsphp">Hyundai Accent Limited</a></h4>
+                                <h4><a href="car-details.php">MG Hector ZS</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
                                             <img src="img/car/seat.svg" alt="img" class="me-1">
-                                            6 Seats
+                                            5 Seats
                                         </li>
                                         <li>
                                             <img src="img/car/door.svg" alt="img" class="me-1">
-                                            2 Doors
+                                            5 Doors
                                         </li>
                                     </ul>
                                     <ul>
@@ -246,18 +246,18 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-detailsphp" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
                         <div class="car-rentals-items mt-0">
                             <div class="car-image">
-                                <img src="img/car/10.jpg" alt="img">
+                                <img src="img/Cars/beetle.jpg" alt="img">
                             </div>
                             <div class="car-content">
                                 <div class="post-cat">
-                                    2024 Model
+                                    1995 Model
                                 </div>
                                 <div class="star">
                                     <i class="fa-solid fa-star"></i>
@@ -267,17 +267,63 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-detailsphp">Hyundai Accent Limited</a></h4>
+                                <h4><a href="car-details.php">Beetle</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
                                             <img src="img/car/seat.svg" alt="img" class="me-1">
-                                            6 Seats
+                                            4 Seats
                                         </li>
                                         <li>
                                             <img src="img/car/door.svg" alt="img" class="me-1">
                                             2 Doors
+                                        </li>
+                                    </ul>
+                                    <ul>
+                                        <li>
+                                            <img src="img/car/automatic.svg" alt="img" class="me-1">
+                                            Manual
+                                        </li>
+                                        <li>
+                                            <img src="img/car/petrol.svg" alt="img" class="me-1">
+                                            Petrol
+                                        </li>
+                                    </ul>
+                                </div>
+                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".5s">
+                        <div class="car-rentals-items mt-0">
+                            <div class="car-image">
+                                <img src="img/Cars/honda city.jpg" alt="img">
+                            </div>
+                            <div class="car-content">
+                                <div class="post-cat">
+                                    2015 Model
+                                </div>
+                                <div class="star">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <span>2 Reviews</span>
+                                </div>
+                                <h4><a href="car-details.php">Honda City</a></h4>
+                                <h6>$70.00 <span>/ Day</span></h6>
+                                <div class="icon-items">
+                                    <ul>
+                                        <li>
+                                            <img src="img/car/seat.svg" alt="img" class="me-1">
+                                            5 Seats
+                                        </li>
+                                        <li>
+                                            <img src="img/car/door.svg" alt="img" class="me-1">
+                                            5 Doors
                                         </li>
                                     </ul>
                                     <ul>
@@ -291,7 +337,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-detailsphp" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>

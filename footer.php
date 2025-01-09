@@ -10,8 +10,7 @@
                                 </div>
                                 <div class="footer-content">
                                     <p>
-                                        66 Road Broklyn Golden Street, 600
-                                        New York, USA 
+                                        Kathmandu
                                     </p>
                                     <ul class="contact-info">
                                         <li>
@@ -39,14 +38,10 @@
                                     </li>
                                     <li>
                                         <a href="car-details.php">
-                                            New Cars
+                                             Cars
                                         </a>
                                     </li>
-                                    <li>
-                                        <a href="news-details.php">
-                                            Latest News
-                                        </a>
-                                    </li>
+                                    
                                     <li>
                                         <a href="gallery.php">
                                             Gallery
@@ -144,7 +139,7 @@
                 <div class="footer-bottom">
                     <div class="footer-wrapper">
                         <p class="wow fadeInUp" data-wow-delay=".4s">
-                            © Copyright 2024 by <a href="index.php">Remons.com</a>
+                            © Copyright 2024 by <a href="index.php">BohoraCarRental.com</a>
                         </p>
                     </div>
                 </div>

@@ -25,7 +25,7 @@
                                     Car Service?
                                 </h2>
                                 <h3 class="wow fadeInUp" data-wow-delay=".5s">
-                                    <span>Starting at</span> <sup>$</sup> 398 <span class="text">/mo</span>
+                                    <span>Starting at</span> <sup>Rs-</sup> 1000 <span class="text">/day</span>
                                 </h3>
                                 <a href="car-grid.php" class="theme-btn wow fadeInUp" data-wow-delay=".7s">Discover More</a>
                             </div>

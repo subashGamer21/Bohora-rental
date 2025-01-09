@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150" fill="none">
+  <!-- Background Circle -->
+  <circle cx="250" cy="75" r="70" fill="#346BD9" />
+
+  <!-- Car Body -->
+  <path d="M150 90c10-20 50-30 100-30s90 10 100 30h-200z" fill="#fff" />
+  <path d="M150 90h200l-10 20h-180z" fill="#fff" />
+
+  <!-- Wheels -->
+  <circle cx="180" cy="110" r="12" fill="#000" />
+  <circle cx="320" cy="110" r="12" fill="#000" />
+
+  <!-- Text -->
+  <text x="250" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#000">
+    BOHORA CAR RENTAL
+  </text>
+</svg>
