@@ -17,7 +17,8 @@
                                     </h2>
                                 </div>
                                 <p class="mt-3 mt-md-0 wow fadeInUp" data-wow-delay=".6s">
-                                Welcome to Bohara Car Rental—your reliable partner for <br> exploring Nepal’s breathtaking landscapes and vibrant cities.   <br>With over 15 years  of driving expertise, we promise a safe,<br>comfortable, and unforgettable travel experience. Whether you need a ride <br> through Nepal’s bustling cities or a journey into its  serene <br> countryside, we’re always here for you.
+                                Welcome to Bohara Car Rental—your reliable partner for <br> exploring Nepal’s breathtaking landscapes and vibrant <br> cities. With over 15 years  of driving expertise, we promise a safe,<br> comfortable, and unforgettable travel experience.   <br>
+                                <br>Whether you need a ride through Nepal’s bustling cities or a journey into its  serene countryside, we’re always here for you.
                                 </p>
                                 <div class="icon-area">
                                     <div class="icon-items wow fadeInUp" data-wow-delay=".3s">

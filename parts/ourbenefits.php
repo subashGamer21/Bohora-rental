@@ -23,7 +23,7 @@
                                    	Professional Drivers
                                     </a>
                                 </h4>
-                                <p>Our drivers are experienced, soft-spoken, and well-trained to ensure your safety and comfort on every journey. With in-depth knowledge of Nepal’s roads, we navigate everything from rough terrains to smooth highways with expertise.</p>
+                                <p>Our drivers are experienced, soft-spoken, and well-trained to ensure your safety and comfort on every journey. With in-depth knowledge of Nepal’s roads, we navigate everything from rough terrains to smooth highways with expertise. <br><br><br></p>
                                 <div class="icon">
                                     <img src="img/feature-benefit/icon-1.png" alt="icon-img">
                                 </div>
@@ -47,7 +47,7 @@
                                    	Wide Range of Vehicles
                                     </a>
                                 </h4>
-                                <p>Whether you need a compact car for a small group or a spacious SUV for family trips, our fleet is equipped to cater to all your travel needs. Each vehicle is well-maintained, clean, and comfortable for a hassle-free ride.</p>
+                                <p>Whether you need a compact car for a small group or a spacious SUV for family trips, our fleet is equipped to cater to all your travel needs. Each vehicle is well-maintained, clean, and comfortable for a hassle-free ride. <br><br><br></p>
                                 <div class="icon">
                                     <img src="img/feature-benefit/icon-2.png" alt="icon-img">
                                 </div>
