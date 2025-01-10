@@ -2810,7 +2810,7 @@ span {
 }
 
 .header-top-section {
-  background-color: var(--theme2);
+      background-color: #020202;
   padding: 10px 60px;
   position: relative;
   z-index: 9;

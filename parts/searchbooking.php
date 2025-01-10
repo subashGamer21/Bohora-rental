@@ -12,7 +12,7 @@
                                     <img src="img/sub-icon.png" alt="icon-img" class="wow fadeInUp">
                                     <span class="wow fadeInUp" data-wow-delay=".2s"></span>
                                     <h2 class="wow fadeInUp" data-wow-delay=".4s">
-                                    Search Book & <br> 
+                                    Book & <br> 
                                Rent Vehicle Easily
                                     </h2>
                                 </div>

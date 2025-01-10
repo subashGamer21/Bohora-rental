@@ -53,7 +53,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="peugeot.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="navara.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -143,7 +143,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="fordecosport.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -188,7 +188,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="mitsubishi.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -233,7 +233,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="mghector.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -278,7 +278,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="beetle.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>
@@ -324,7 +324,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <a href="car-details.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
+                                <a href="hondacity.php" class="theme-btn bg-color w-100 text-center">book now <i class="fa-solid fa-arrow-right ps-1"></i></a>
                             </div>
                         </div>
                     </div>

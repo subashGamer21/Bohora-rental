@@ -17,7 +17,7 @@
                             Contact
                         </li>
                     </ul>
-                    <h1 class="wow fadeInUp" data-wow-delay=".5s">Grid Style</h1>
+                    <h1 class="wow fadeInUp" data-wow-delay=".5s">Contact</h1>
                 </div>
             </div>
         </div>

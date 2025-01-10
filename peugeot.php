@@ -31,7 +31,7 @@
                         <div class="col-lg-8">
                             <div class="car-details-items">
                                 <div class="car-image">
-                                    <img src="img/car/car-details.jpg" alt="img">
+                                    <img src="img/Cars/peugeot_308.jpg" alt="img">
                                 </div>
                                 <div class="car-content">
                                     <div class="star">
@@ -42,7 +42,7 @@
                                         <i class="fa-solid fa-star"></i>
                                         <span>2 Reviews</span>
                                     </div>
-                                    <h3>Hyundai Accent Limited</h3>
+                                    <h3>Peugeot 308</h3>
                                     <h6>$70.00 <span>/ Day</span></h6>
                                     <p class="mt-4 mb-4">
                                         To deliver on the promise of technology and human We help our clients become sions of themselves. Lorem Ipsum is simply dummy text of the printing and typesetting industry. orem ipsum has been the industry’s standard dummy text ever since the 1500s.

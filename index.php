@@ -4,11 +4,11 @@
 <?php include('parts/about.php') ?>
 <?php include('parts/ourbenefits.php') ?>
 <?php include('parts/ourservices.php') ?>
-<?php include('parts/ctaRental.php') ?>
+<?php include('parts/CarRental.php') ?>
 <?php include('parts/howitworks.php') ?>
 
 <?php include('parts/Testimonial.php') ?>
-<?php include('parts/whynepal.php') ?>
+
 <?php include('parts/gallery.php') ?>
 
 <?php include('parts/ctaCheap.php') ?>

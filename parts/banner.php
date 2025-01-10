@@ -22,7 +22,7 @@
             <i class="fa-solid fa-chevron-right"></i>
         </button>
     </div>
-    <h6 class="search-text">Search Any Car</h6>
+    <h6 class="search-text">Book Any Car</h6>
     <div class="line-icon">
         <img src="img/hero/icon.png" alt="icon">
     </div>
