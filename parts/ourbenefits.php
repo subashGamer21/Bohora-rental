@@ -23,7 +23,7 @@
                                    	Professional Drivers
                                     </a>
                                 </h4>
-                                <p>Our drivers are experienced, soft-spoken, and well-trained to ensure your safety and comfort on every journey. With in-depth knowledge of Nepal’s roads, we navigate everything from rough terrains to smooth highways with expertise. <br><br><br></p>
+                                <p>Our drivers are experienced, soft-spoken, and well-trained to ensure your safety and comfort on every journey. With in-depth knowledge of Nepal’s roads, we navigate everything from rough terrains to smooth highways with expertise.<br></p>
                                 <div class="icon">
                                     <img src="img/feature-benefit/icon-1.png" alt="icon-img">
                                 </div>
@@ -47,7 +47,7 @@
                                    	Wide Range of Vehicles
                                     </a>
                                 </h4>
-                                <p>Whether you need a compact car for a small group or a spacious SUV for family trips, our fleet is equipped to cater to all your travel needs. Each vehicle is well-maintained, clean, and comfortable for a hassle-free ride. <br><br><br></p>
+                                <p>Whether you need a compact car for a small group or a spacious SUV for family trips, our fleet is equipped to cater to all your travel needs. Each vehicle is well-maintained, clean, and comfortable for a hassle-free ride. <br></p>
                                 <div class="icon">
                                     <img src="img/feature-benefit/icon-2.png" alt="icon-img">
                                 </div>
@@ -72,7 +72,7 @@
                                     Affordable and Transparent Pricing
                                     </a>
                                 </h4>
-                                <p>Enjoy competitive rates with no hidden charges. Our pricing structure is clear and budget-friendly, ensuring you get the best value for your money. <br> <br> <br> <br> <br>.</p>
+                                <p>Enjoy competitive rates with no hidden charges. Our pricing structure is clear and budget-friendly, ensuring you get the best value for your money.  <br><br><br></p>
                                 <div class="icon">
                                     <img src="img/feature-benefit/icon-3.png" alt="icon-img">
                                 </div>
@@ -125,7 +125,7 @@
                                     Unforgettable Experiences
                                     </a>
                                 </h4>
-                                <p>Our mission is to not just get you to your destination but to make your journey enjoyable. With us, you’ll gain more than transportation—you’ll take home lasting memories of Nepal’s beauty and hospitality.</p>
+                                <p>Our mission is to not just get you to your destination but to make your journey enjoyable. With us, you’ll gain more than transportation—you’ll take home lasting memories of Nepal’s beauty and hospitality <br>.</p>
                                 <div class="icon">
                                     <img src="img/feature-benefit/icon-3.png" alt="icon-img">
                                 </div>

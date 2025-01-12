@@ -1,0 +1,134 @@
+.header-main {
+    justify-content: space-between;
+  }
+
+  .faq-sidebar img {
+    object-fit: cover; /* Ensures the image covers the area */
+    height: 100%; /* Matches the container height */
+    width: 100%; /* Stretches to container width */
+}
+
+
+.faq-section {
+    display: flex;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.faq-sidebar img {
+    display: block;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.faq-sidebar img.custom-img {
+    width: auto; /* Maintains aspect ratio */
+    height: 100%; /* Spans full height of the column */
+    max-height: 600px; /* Optional: Limits the height */
+    display: block;
+    position: relative; /* Enables positioning adjustments */
+    left: -50px;
+    top: 30px; /* Moves the image slightly to the left */
+    z-index: 1; /* Ensures the image doesn't overlap other elements */
+}
+
+.car-image {
+    text-align: center; /* Centers the image horizontally */
+    margin-bottom: 15px; /* Adds spacing below the image */
+}
+
+.car-image img {
+    width: 100%; /* Ensures the image spans the container width */
+    height: auto; /* Maintains aspect ratio */
+    border-radius: 8px; /* Optional: Adds rounded corners */
+}
+
+.car-content {
+    padding: 10px; /* Adds spacing around the content */
+}
+
+.star i {
+    color: #FFD700; /* Gold color for stars */
+}
+
+.price {
+    font-size: 16px;
+    color: #333;
+}
+
+
+
+.car-list {
+    display: flex;
+    flex-direction: column;
+    gap: 25px; /* Added gap between cars */
+    width: 200px;
+}
+
+.car-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.car-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.car-item .details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.car-item a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.car-item a:hover {
+    color: #007BFF;
+}
+
+.rate {
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    background-color: #FF6600; /* Pure orange color */
+    padding: 5px 10px;
+    border-radius: 5px;
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+.header-1 .header-main .header-left {
+    display: flex;
+    align-items: center;
+    gap: 190px;
+    transform: translateX(95px); /* Moves the element 20px to the right */
+}
+@media (max-width: 900px) {
+    .search-text,
+    .line-icon {
+        display: none;
+    }
+}

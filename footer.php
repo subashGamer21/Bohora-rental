@@ -1,3 +1,28 @@
+
+        <!-- Cta Cheap Rental Section Start -->
+        <section class="cta-cheap-rental-section">
+            <div class="container">
+                <div class="cta-cheap-rental">
+                    <div class="cta-cheap-rental-left wow fadeInUp" data-wow-delay="
+                    .3s">
+                        <div class="logo-thumb">
+                            <a href="index.php">
+                                <img src="img/logo/white-logo.svg" alt="logo-img">
+                            </a>
+                        </div>
+                        <h4 class="text-white">Save big with our cheap car rental</h4>
+                    </div>
+                    <div class="social-icon d-flex align-items-center wow fadeInUp" data-wow-delay="
+                    .5s">
+                        <a href="index.php#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="index.php#"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="index.php#"><i class="fa-brands fa-whatsapp"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
 <!-- Footer Section Start -->
 <footer class="footer-section fix">
             <div class="container">
@@ -15,11 +40,11 @@
                                     <ul class="contact-info">
                                         <li>
                                             <i class="fa-regular fa-envelope"></i>
-                                            <a href="mailto:needhelp@company.com">needhelp@company.com</a>
+                                            <a href="mailto:needhelp@company.com">info@boharacarrental.com</a>
                                         </li>
                                         <li>
                                             <i class="fa-solid fa-phone-volume"></i>
-                                            <a href="tel:926668880000">+92 (666) 888 0000</a>
+                                            <a href="tel:926668880000">+977 980‑1136594‬</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -121,10 +146,10 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                             <div class="single-footer-widget">
                                 <div class="widget-head">
-                                    <h4>Newsletter</h4>
+                                    <h4>Subscribe</h4>
                                 </div>
                                 <div class="footer-content">
-                                    <p>Subscribe our newsletter to get our latest update & news</p>
+                                    <p>Subscribe our newsletter to get our latest updates</p>
                                     <div class="footer-input">
                                         <input type="email" id="email2" placeholder="Email address">
                                         <button class="newsletter-btn" type="submit">

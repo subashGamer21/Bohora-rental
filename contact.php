@@ -82,7 +82,7 @@
                                     </div>
                                     <div class="content">
                                         <p>Have Question?</p>
-                                        <h6><a href="tel:+923076806860">+ 92 ( 307 ) 68 - 06860</a></h6>
+                                        <h6><a href="tel:+923076806860">‪+977 980‑1136594‬</a></h6>
                                     </div>
                                 </div>
                                 <div class="icon-items">
@@ -91,7 +91,7 @@
                                     </div>
                                     <div class="content">
                                         <p>Write Email</p>
-                                        <h6><a href="mailto:info@example.com" class="link">info@example.com</a></h6>
+                                        <h6><a href="mailto: info@boharacarrental.com" class="link"> info@boharacarrental.com</a></h6>
                                     </div>
                                 </div>
                                 <div class="icon-items">
@@ -101,16 +101,16 @@
                                     <div class="content">
                                         <p>Visit Office</p>
                                         <h6>
-                                            24 Valentin, Street Road <br>
-                                            New York
+                                            <br>
+                                           Kathmandu
                                         </h6>
                                     </div>
                                 </div>
                                 <div class="social-icon d-flex align-items-center">
                                     <a href="contact.php#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="contact.php#"><i class="fab fa-twitter"></i></a>
-                                    <a href="contact.php#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a href="contact.php#"><i class="fa-brands fa-youtube"></i></a>
+                                    <!-- <a href="contact.php#"><i class="fab fa-twitter"></i></a> -->
+                                    <a href="contact.php#"><i class="fa-brands fa-whatsapp"></i></a>
+                                    <a href="contact.php#"><i class="fa-brands fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>

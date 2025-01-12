@@ -1530,7 +1530,7 @@ span {
 }
 
 .faq-sidebar {
-  background-color: var(--bg);
+  /* background-color: var(--bg); */
   border-radius: 10px;
   padding: 30px;
 }
@@ -1603,11 +1603,8 @@ span {
 
 .feature-benefit-items {
   display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    height: 100%; /* Ensure it fills the container height */
-    min-height: 300px; /* Adjust the height as per your preference */
-    padding: 20px; /* Optional for spacing */
+  flex-direction: column;
+  justify-content: space-between;
     box-sizing: border-box;
 }
 .our-services {
@@ -2810,11 +2807,11 @@ span {
 }
 
 .header-top-section {
-      background-color: #020202;
+  background-color: #020202;
   padding: 10px 60px;
   position: relative;
   z-index: 9;
-  border-top: 3px solid var(--theme2);
+  border-top: 3px solid #020202;
 }
 @media (max-width: 1199px) {
   .header-top-section {
@@ -2939,7 +2936,7 @@ span {
 .header-main {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   padding: 10px 0;
 }
 .header-main .main-menu ul {

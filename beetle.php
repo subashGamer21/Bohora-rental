@@ -43,7 +43,7 @@
                                         <span>2 Reviews</span>
                                     </div>
                                     <h3>Beetle</h3>
-                                    <h6>Rs 1000.00 <span>/ Day</span></h6>
+                                    <h6>$70.00 <span>/ Day</span></h6>
                                     <p class="mt-4 mb-4">
                                         To deliver on the promise of technology and human We help our clients become sions of themselves.
                                     </p>
@@ -74,7 +74,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <h6>Year:</h6>
-                                                    <p>1995</p>
+                                                    <p>2024</p>
                                                 </div>
                                             </div>
                                             <div class="icon-items">
@@ -126,48 +126,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="price-table-area">
-                                        <h6>Table Price <span>( by day of the week )</span></h6>
-                                        <div class="price-table-items section-bg">
-                                            <p>Monday</p>
-                                            <p>$70.00</p>
-                                        </div>
-                                        <div class="price-table-items">
-                                            <p>Tuesday</p>
-                                            <p>$70.00</p>
-                                        </div>
-                                        <div class="price-table-items section-bg">
-                                            <p>Wednesday</p>
-                                            <p>$70.00</p>
-                                        </div>
-                                        <div class="price-table-items">
-                                            <p>Thursday</p>
-                                            <p>$70.00</p>
-                                        </div>
-                                        <div class="price-table-items section-bg">
-                                            <p>Friday</p>
-                                            <p>$70.00</p>
-                                        </div>
-                                        <div class="price-table-items">
-                                            <p>Saturday</p>
-                                            <p>$70.00</p>
-                                        </div>
-                                        <div class="price-table-items section-bg">
-                                            <p>Sunday</p>
-                                            <p>$70.00</p>
-                                        </div>
-                                    </div>
-                                    <div class="car-video">
-                                        <img src="img/car/car-details-2.jpg" alt="img">
-                                        <div class="video-box">
-                                            <a href="https://www.youtube.com/watch?v=Cn4G2lZ_g2I" class="video-btn ripple video-popup">
-                                                <i class="fa-solid fa-play"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="car-booking-items">
+
+                                    <div class="car-booking-items">
                                 <div class="booking-header">
                                     <h3>Request for Booking</h3>
                                     <p>Send your requirement to us. We will check email and contact you soon.</p>
@@ -207,13 +167,13 @@
                                                             Select Location
                                                         </option>
                                                         <option value="1">
-                                                            Houston
+                                                           Airport
                                                         </option>
                                                         <option value="1">
-                                                            Texas
+                                                           koteshor
                                                         </option>
                                                         <option value="1">
-                                                            New York
+                                                            thamel
                                                         </option>
                                                         <option value="1">
                                                             Other Location
@@ -223,9 +183,9 @@
                                                         </span><ul class="list"><li data-value="1" class="option selected">
                                                             Select Location
                                                         </li><li data-value="1" class="option">
-                                                            Houston
+                                                           Airpot
                                                         </li><li data-value="1" class="option">
-                                                            Texas
+                                                            Koteshor
                                                         </li><li data-value="1" class="option">
                                                             New York
                                                         </li><li data-value="1" class="option">
@@ -282,6 +242,10 @@
                                     </div>
                                 </form>
                             </div>
+                                
+                                </div>
+                            </div>
+                            
                             <div class="comment-reviews">
                                 <h3>2 Reviews</h3>
                                 <div class="car-single-comment d-flex gap-4 pb-5">
@@ -332,107 +296,62 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="car-list-sidebar">
-                                <h4 class="title">Booking Form</h4>
-                                <form action="#" id="contact-form2" method="POST" class="contact-form-items">
-                                    <div class="row g-4">
-                                        <div class="col-lg-12">
-                                            <div class="form-clt">
-                                                <label class="label-text">Pick-up Location</label>
-                                                <div class="category-oneadjust">
-                                                    <select name="cate" class="category">
-                                                        <option value="1">
-                                                            Select Location
-                                                        </option>
-                                                        <option value="1">
-                                                            Houston
-                                                        </option>
-                                                        <option value="1">
-                                                            Texas
-                                                        </option>
-                                                        <option value="1">
-                                                            New York
-                                                        </option>
-                                                        <option value="1">
-                                                            Other Location
-                                                        </option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-clt">
-                                                <label class="label-text">Pick-up Date</label>
-                                                <div id="datepicker" class="input-group date" data-date-format="dd-mm-yyyy">
-                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
-                                                    <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-clt">
-                                                <label class="label-text">Drop-off Date</label>
-                                                <div id="datepicker2" class="input-group date" data-date-format="dd-mm-yyyy">
-                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
-                                                    <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-clt">
-                                                <label class="label-text">Quantity</label>
-                                                <div class="category-oneadjust">
-                                                    <select name="cate" class="category">
-                                                        <option value="1">
-                                                           1
-                                                        </option>
-                                                        <option value="1">
-                                                           2
-                                                        </option>
-                                                        <option value="1">
-                                                            3
-                                                        </option>
-                                                        <option value="1">
-                                                           4
-                                                        </option>
-                                                        <option value="1">
-                                                            5
-                                                        </option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-clt">
-                                                <label class="label-text">Resources</label>
-                                                <div class="input-save-items-area">
-                                                    <div class="input-save-items">
-                                                        <div class="input-save d-flex align-items-center mb-3">
-                                                            <input type="checkbox" class="form-check-input" name="save-for-next" id="saveForNext3">
-                                                            <label for="saveForNext3">Driver</label>
-                                                        </div>
-                                                        <div class="input-save d-flex align-items-center">
-                                                            <input type="checkbox" class="form-check-input" name="save-for-next" id="saveForNext4">
-                                                            <label for="saveForNext4">Baby Seat</label>
-                                                        </div>
-                                                    </div>
-                                                    <div class="input-save-items">
-                                                        <div class="input-save d-flex align-items-center mb-3">
-                                                            <label>$10.00 / Day</label>
-                                                        </div>
-                                                        <div class="input-save d-flex align-items-center">
-                                                            <label>$30.00 / Total</label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-12">
-                                            <div class="form-clt">
-                                               <button type="submit" class="theme-btn">Book Now</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
+                                <h4 class="title">Other Car</h4>
+                               
+           <!-- Example content -->
+<div class="car-item">
+    <a href="hondacity.php">
+        <img src="img/Cars/honda city.jpg" alt="Honda City">
+        <div class="details">
+            Honda City
+        </div>
+        <div class="rate">1000/day</div>
+    </a>
+</div>
+<div class="car-item">
+    <a href="navara.php">
+        <img src="img/Cars/navara.jpg" alt="Beetle">
+        <div class="details">
+            Navara
+        </div>
+        <div class="rate">1200/day</div>
+    </a>
+</div>
+<div class="car-item">
+    <a href="fordecosport.php">
+        <img src="img/Cars/ford_ecosport_trend.jpg" alt="Ford Ecosport">
+        <div class="details">
+            Ford Ecosport
+        </div>
+        <div class="rate">1500/day</div>
+    </a>
+    <a href="peugeot.php">
+        <img src="img/Cars/peugeot_308.jpg" alt="Honda City">
+        <div class="details">
+            Peageot
+        </div>
+        <div class="rate">1000/day</div>
+    </a>
+</div>
+<div class="car-item">
+    <a href="mghector.php">
+        <img src="img/car/car-list-1.jpg" alt="Beetle">
+        <div class="details">
+            MG Hector
+        </div>
+        <div class="rate">1200/day</div>
+    </a>
+</div>
+<div class="car-item">
+    <a href="mitsubishi.php">
+        <img src="img/Cars/mitsubhi.jpg" alt="Ford Ecosport">
+        <div class="details">
+           MitSubishi
+        </div>
+        <div class="rate">1500/day</div>
+    </a>
+</div>
+      
                             </div>
                         </div>
                     </div>

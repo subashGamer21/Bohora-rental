@@ -30,6 +30,7 @@
         <link rel="stylesheet" href="css/nice-select.css">
         <!--<< Main.css >>-->
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/custom.css">
     </head>
     <body>
 
@@ -144,14 +145,13 @@
                             </ul>
                             <div class="header-button mt-4">
                                 <a href="contact.php" class="theme-btn text-center">
-                                    <span>Get A Quote<i class="fa-solid fa-arrow-right-long"></i></span>
+                                    <span>Contact<i class="fa-solid fa-arrow-right-long"></i></span>
                                 </a>
                             </div>
                             <div class="social-icon d-flex align-items-center">
                                 <a href="index.php#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="index.php#"><i class="fab fa-twitter"></i></a>
-                                <a href="index.php#"><i class="fab fa-youtube"></i></a>
-                                <a href="index.php#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="index.php#"><i class="fab fa-instagram"></i></a>
+                                <a href="index.php#"><i class="fab fa-whatsapp"></i></a>
                             </div>
                         </div>
                     </div>
@@ -167,7 +167,7 @@
                     <ul class="contact-list">
                         <li>
                             <i class="fas fa-envelope"></i>
-                            <a href="mailto:info@example.com" class="link">info@example.com</a>
+                            <a href="mailto:info@boharacarrental.com" class="link">info@boharacarrental.com</a>
                         </li>
                         <li>
                             <i class="fas fa-map-marker-alt"></i>
@@ -183,10 +183,9 @@
                             <li><a href="contact.php">Contact</a></li>
                         </ul>
                         <div class="social-icon d-flex align-items-center">
-                            <a href="index.php#"><i class="fab fa-twitter"></i></a>
                             <a href="index.php#"><i class="fa-brands fa-facebook"></i></a>
-                            <a href="index.php#"><i class="fa-brands fa-pinterest-p"></i></a>
                             <a href="index.php#"><i class="fa-brands fa-instagram"></i></a>
+                            <a href="index.php#"><i class="fab fa-whatsapp"></i></a>
                         </div>
                     </div>
                 </div>
@@ -209,8 +208,7 @@
                                     <nav id="mobile-menu">
                                         <ul>
                                             <li></li>
-                                            <li></li>
-                                            <li></li>
+                                        
                                             <li class="has-dropdown active menu-thumb">
                                                 <a href="index.php">
                                                 Home 
@@ -227,13 +225,13 @@
                                             </li>
                                             <li class="has-dropdown">
                                                 <a href="gallery.php">
-                                                    Pages
-                                                    <i class="fas fa-angle-down"></i>
+                                                  Gallery
+                                                    <!-- <i class="fas fa-angle-down"></i> -->
                                                 </a>
-                                                <ul class="submenu">
+                                                <!-- <ul class="submenu">
                                                     <li><a href="gallery.php">Gallery</a></li>
                                                     <li><a href="faq.php">Faq's</a></li>
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li>
                                                 <a href="car-grid.php">
@@ -272,10 +270,9 @@
                                 </div>
                                 <div class="content">
                                     <p>Call Anytime</p>
-                                    <h6><a href="tel:+9288009850">+92 (8800) - 9850</a></h6>
+                                    <h6><a href="tel:+977 980‑1136594">+977 980‑1136594‬</a></h6>
                                 </div>
                             </div>
-                            <a href="index.php#0" class="search-trigger search-icon"><i class="fa-regular fa-magnifying-glass"></i></a>
                             <div class="header-button">
                                 <a href="car-details.php" class="header-btn">
                                     Find a Car

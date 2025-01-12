@@ -15,9 +15,8 @@
                     <div class="social-icon d-flex align-items-center wow fadeInUp" data-wow-delay="
                     .5s">
                         <a href="index.php#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="index.php#"><i class="fab fa-twitter"></i></a>
-                        <a href="index.php#"><i class="fa-brands fa-linkedin-in"></i></a>
-                        <a href="index.php#"><i class="fa-brands fa-youtube"></i></a>
+                        <a href="index.php#"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="index.php#"><i class="fa-brands fa-whatsapp"></i></a>
                     </div>
                 </div>
             </div>

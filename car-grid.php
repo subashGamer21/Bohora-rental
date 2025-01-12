@@ -42,7 +42,7 @@
                                     <i class="fa-solid fa-star"></i>
                                    <span>2 Reviews</span> 
                                 </div>
-                                <h4><a href="car-details.php">peugeot 308</a></h4>
+                                <h4><a href="peugeot.php">peugeot 308</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -87,7 +87,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-details.php">Navara</a></h4>
+                                <h4><a href="navara.php">Navara</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -97,7 +97,7 @@
                                         </li>
                                         <li>
                                             <img src="img/car/door.svg" alt="img" class="me-1">
-                                            4 Doors (Double cab)
+                                            4 Doors 
                                         </li>
                                     </ul>
                                     <ul>
@@ -132,7 +132,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-details.php">Ford Ecosport Trend</a></h4>
+                                <h4><a href="fordecosport.php">Ford Ecosport Trend</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -177,7 +177,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-details.php">Mitsubishi Pajero Exceed</a></h4>
+                                <h4><a href="mitsubishi.php">Mitsubishi Pajero Exceed</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -222,7 +222,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-details.php">MG Hector ZS</a></h4>
+                                <h4><a href="mghector.php">MG Hector ZS</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -267,7 +267,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-details.php">Beetle</a></h4>
+                                <h4><a href="beetle.php">Beetle</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
@@ -313,7 +313,7 @@
                                     <i class="fa-solid fa-star"></i>
                                     <span>2 Reviews</span>
                                 </div>
-                                <h4><a href="car-details.php">Honda City</a></h4>
+                                <h4><a href="hondacity.php">Honda City</a></h4>
                                 <h6>$70.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
