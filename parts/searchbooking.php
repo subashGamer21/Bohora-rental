@@ -44,7 +44,7 @@
                         </div>
                         <div class="col-xl-4 col-lg-6">
                             <div class="product-search-area">
-                                <form action="#" id="contact-form" method="POST">
+                                <form action="car-grid.php" id="contact-form" method="POST">
                                    <div class="row g-4">
                                     <div class="col-md-12">
                                         <div class="pickup-items">
@@ -113,7 +113,7 @@
                                         <div class="col-md-12">
                                             <div class="pickup-items">
                                                <button type="submit" class="theme-btn">
-                                                     Find a Car
+                                                     Rent a Car
                                                </button>
                                             </div>
                                         </div>

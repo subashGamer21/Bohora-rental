@@ -170,7 +170,7 @@
                 </div>
             </div>
         </footer>
-        
+        <!-- <script src="js/custom.js"></script> -->
         <!--<< All JS Plugins >>-->
         <script src="js/jquery-3.7.1.min.js"></script>
         <!--<< Viewport Js >>-->

@@ -124,11 +124,47 @@
     display: flex;
     align-items: center;
     gap: 190px;
-    transform: translateX(95px); /* Moves the element 20px to the right */
+    transform: translateX(75px); /* Moves the element 20px to the right */
 }
 @media (max-width: 900px) {
     .search-text,
     .line-icon {
         display: none;
     }
+}
+
+@media (max-width: 768px) {
+    .logo {
+        position: absolute; /* Or fixed if you want it to stay while scrolling */
+       
+        right: 1px; /* Position it on the right side */
+        z-index: 10; /* Ensure it's on top of other content */
+    }
+
+    .header-logo img {
+        width: auto; /* Ensure the logo does not get stretched */
+        height: 30px; /* Adjust logo size if needed */
+    }
+}
+
+.popup-message {
+    display: none; /* Initially hidden */
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    z-index: 9999;
+}
+.popup-message.error {
+    background-color: #f44336; /* Red background for error messages */
+}
+.popup-message .close-btn {
+    margin-left: 20px;
+    cursor: pointer;
+    font-weight: bold;
 }

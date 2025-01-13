@@ -2,6 +2,7 @@
 
 <?php include('header.php') ?>
 
+
 <!--<< Breadcrumb Section Start >>-->
 <div class="breadcrumb-wrapper bg-cover" style="background-image: url('img/bg-header-banner.jpg');">
             <div class="container">
@@ -23,6 +24,7 @@
                 </div>
             </div>
         </div>
+      
 <!-- Car Details Section Start -->
         <section class="car-details fix section-padding">
             <div class="container">
@@ -132,7 +134,8 @@
                                     <h3>Request for Booking</h3>
                                     <p>Send your requirement to us. We will check email and contact you soon.</p>
                                 </div>
-                                <form action="#" id="contact-form" method="POST" class="contact-form-items">
+                                <form action="sendemail.php" id="contact-form" method="POST" class="contact-form-items">
+                                <input type="hidden" name="car_name" value="Peugeot 308">
                                     <div class="row g-4">
                                         <div class="col-lg-6">
                                             <div class="form-clt">
@@ -198,7 +201,7 @@
                                             <div class="form-clt">
                                                 <label class="label-text">Pick-up Date</label>
                                                 <div id="datepicker3" class="input-group date" data-date-format="dd-mm-yyyy">
-                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
+                                                    <input class="form-control" name='pickup_date' type="text" placeholder="Check in" readonly>
                                                     <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
                                                 </div>
                                             </div>
@@ -207,33 +210,12 @@
                                             <div class="form-clt">
                                                 <label class="label-text">Drop-off Date</label>
                                                 <div id="datepicker4" class="input-group date" data-date-format="dd-mm-yyyy">
-                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
+                                                    <input class="form-control" name= 'dropoff_date' type="text" placeholder="Check in" readonly>
                                                     <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-5">
-                                            <div class="input-save-items-area">
-                                                <div class="input-save-items">
-                                                    <div class="input-save d-flex align-items-center mb-3">
-                                                        <input type="checkbox" class="form-check-input" name="save-for-next" id="saveForNext1">
-                                                        <label for="saveForNext1">Driver</label>
-                                                    </div>
-                                                    <div class="input-save d-flex align-items-center">
-                                                        <input type="checkbox" class="form-check-input" name="save-for-next" id="saveForNext2">
-                                                        <label for="saveForNext2">Baby Seat</label>
-                                                    </div>
-                                                </div>
-                                                <div class="input-save-items">
-                                                    <div class="input-save d-flex align-items-center mb-3">
-                                                        <label>$10.00 / Day</label>
-                                                    </div>
-                                                    <div class="input-save d-flex align-items-center">
-                                                        <label>$30.00 / Total</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        
                                         <div class="col-lg-12">
                                             <button class="theme-btn" type="submit">
                                                 Send Request
