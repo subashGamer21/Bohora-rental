@@ -2,6 +2,7 @@
 
 <?php include('header.php') ?>
 
+
 <!--<< Breadcrumb Section Start >>-->
 <div class="breadcrumb-wrapper bg-cover" style="background-image: url('img/bg-header-banner.jpg');">
             <div class="container">
@@ -23,6 +24,7 @@
                 </div>
             </div>
         </div>
+      
 <!-- Car Details Section Start -->
         <section class="car-details fix section-padding">
             <div class="container">
@@ -31,7 +33,7 @@
                         <div class="col-lg-8">
                             <div class="car-details-items">
                                 <div class="car-image">
-                                    <img src="img/Cars/mitsubhi.jpg" alt="img">
+                                    <img src="img/Cars/peugeot_308.jpg" alt="img">
                                 </div>
                                 <div class="car-content">
                                     <div class="star">
@@ -42,7 +44,7 @@
                                         <i class="fa-solid fa-star"></i>
                                         <span>2 Reviews</span>
                                     </div>
-                                    <h3>Mitsubishi </h3>
+                                    <h3>Peugeot 308</h3>
                                     <h6>$70.00 <span>/ Day</span></h6>
                                     <p class="mt-4 mb-4">
                                         To deliver on the promise of technology and human We help our clients become sions of themselves.
@@ -132,30 +134,31 @@
                                     <h3>Request for Booking</h3>
                                     <p>Send your requirement to us. We will check email and contact you soon.</p>
                                 </div>
-                                <form action="#" id="contact-form" method="POST" class="contact-form-items">
+                                <form action="sendemail.php" id="contact-form" method="POST" class="contact-form-items">
+                                <input type="hidden" name="car_name" value="Mitsubishi">
                                     <div class="row g-4">
                                         <div class="col-lg-6">
                                             <div class="form-clt">
                                                 <label class="label-text">Your Name</label>
-                                                <input type="text" name="name" id="name" placeholder="Afzaal Islam">
+                                                <input type="text" name="name" id="name" placeholder="Afzaal Islam" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-clt">
                                                 <label class="label-text">Email</label>
-                                                <input type="text" name="email" id="email" placeholder="pixydrops@gmail.com">
+                                                <input type="text" name="email" id="email" placeholder="pixydrops@gmail.com" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-clt">
                                                 <label class="label-text">Phone Number</label>
-                                                <input type="text" name="phone" id="phone" placeholder="+ 00 0000 - 000">
+                                                <input type="text" name="phone" id="phone" placeholder="+ 00 0000 - 000" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="form-clt">
                                                 <label class="label-text">Address</label>
-                                                <input type="text" name="address" id="address" placeholder="Address">
+                                                <input type="text" name="address" id="address" placeholder="Address" required>
                                             </div>
                                         </div>
                                         <div class="col-lg-4">
@@ -198,7 +201,7 @@
                                             <div class="form-clt">
                                                 <label class="label-text">Pick-up Date</label>
                                                 <div id="datepicker3" class="input-group date" data-date-format="dd-mm-yyyy">
-                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
+                                                    <input class="form-control" name='pickup_date' type="text" placeholder="Check in" readonly>
                                                     <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
                                                 </div>
                                             </div>
@@ -207,33 +210,12 @@
                                             <div class="form-clt">
                                                 <label class="label-text">Drop-off Date</label>
                                                 <div id="datepicker4" class="input-group date" data-date-format="dd-mm-yyyy">
-                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
+                                                    <input class="form-control" name= 'dropoff_date' type="text" placeholder="Check in" readonly>
                                                     <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-5">
-                                            <div class="input-save-items-area">
-                                                <div class="input-save-items">
-                                                    <div class="input-save d-flex align-items-center mb-3">
-                                                        <input type="checkbox" class="form-check-input" name="save-for-next" id="saveForNext1">
-                                                        <label for="saveForNext1">Driver</label>
-                                                    </div>
-                                                    <div class="input-save d-flex align-items-center">
-                                                        <input type="checkbox" class="form-check-input" name="save-for-next" id="saveForNext2">
-                                                        <label for="saveForNext2">Baby Seat</label>
-                                                    </div>
-                                                </div>
-                                                <div class="input-save-items">
-                                                    <div class="input-save d-flex align-items-center mb-3">
-                                                        <label>$10.00 / Day</label>
-                                                    </div>
-                                                    <div class="input-save d-flex align-items-center">
-                                                        <label>$30.00 / Total</label>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        
                                         <div class="col-lg-12">
                                             <button class="theme-btn" type="submit">
                                                 Send Request
@@ -299,8 +281,7 @@
                                 <h4 class="title">Other Car</h4>
                                
             <!-- Example Car Items -->
-           <!-- Example content -->
-<div class="car-item">
+            <div class="car-item">
     <a href="hondacity.php">
         <img src="img/Cars/honda city.jpg" alt="Honda City">
         <div class="details">
@@ -326,10 +307,10 @@
         </div>
         <div class="rate">1500/day</div>
     </a>
-    <a href="peugeot.php">
-        <img src="img/Cars/peugeot_308.jpg" alt="Honda City">
+    <a href="navara.php">
+        <img src="img/Cars/navara.jpg" alt="Honda City">
         <div class="details">
-            Peageot
+            Navara
         </div>
         <div class="rate">1000/day</div>
     </a>
@@ -344,10 +325,10 @@
     </a>
 </div>
 <div class="car-item">
-    <a href="navara.php">
-        <img src="img/Cars/navara.jpg" alt="Ford Ecosport">
+    <a href="mitsubishi.php">
+        <img src="img/Cars/mitsubhi.jpg" alt="Ford Ecosport">
         <div class="details">
-           Navara
+           MitSubishi
         </div>
         <div class="rate">1500/day</div>
     </a>

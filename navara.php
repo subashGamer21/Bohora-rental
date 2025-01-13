@@ -135,7 +135,7 @@
                                     <p>Send your requirement to us. We will check email and contact you soon.</p>
                                 </div>
                                 <form action="sendemail.php" id="contact-form" method="POST" class="contact-form-items">
-                                <input type="hidden" name="car_name" value="Peugeot 308">
+                                <input type="hidden" name="car_name" value="Navara">
                                     <div class="row g-4">
                                         <div class="col-lg-6">
                                             <div class="form-clt">
