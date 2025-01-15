@@ -6,7 +6,7 @@
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="testimonial-single-items">
-                                    <div class="testimonial-img bg-cover" style="background-image: url('img/umesh.jfif');"></div>
+                                    <div class="testimonial-img bg-cover" style="background-image: url('img/person.jpg');"></div>
                                     <div class="testimonial-content">
                                         <p>
                                         “I had an amazing trip with Puran Bohara from Bohara Car Rental. The driver was professional, the car was comfortable, and the experience was unforgettable!” 
@@ -24,7 +24,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="testimonial-single-items">
-                                    <div class="testimonial-img bg-cover" style="background-image: url('img/testimonial/02.jpg');"></div>
+                                    <div class="testimonial-img bg-cover" style="background-image: url('img/person.jpg');"></div>
                                     <div class="testimonial-content">
                                         <p>
                                         “Highly recommend Bohara Car Rental for anyone traveling in Nepal. They made my journey so smooth and enjoyable!”
@@ -42,7 +42,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="testimonial-single-items">
-                                    <div class="testimonial-img bg-cover" style="background-image: url('img/testimonial/03.jpg');"></div>
+                                    <div class="testimonial-img bg-cover" style="background-image: url('img/person.jpg');"></div>
                                     <div class="testimonial-content">
                                         <p>
                                             This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch.
@@ -60,9 +60,9 @@
                         </div>
                     </div>
                     <div class="client-img-items">
-                        <div class="client-img bg-cover" style="background-image: url('img/testimonial/01.jpg');"></div>
-                        <div class="client-img bg-cover" style="background-image: url('img/testimonial/02.jpg');"></div>
-                        <div class="client-img bg-cover" style="background-image: url('img/testimonial/03.jpg');"></div>
+                        <div class="client-img bg-cover" style="background-image: url('img/person.jpg');"></div>
+                        <div class="client-img bg-cover" style="background-image: url('img/person.jpg');"></div>
+                        <div class="client-img bg-cover" style="background-image: url('img/person.jpg');"></div>
                         <div class="array-button wow fadeInUp" data-wow-delay=".6s">
                             <button class="array-prev"><i class="fa-solid fa-arrow-left-long"></i></button>
                             <button class="array-next"><i class="fa-solid fa-arrow-right-long"></i></button>

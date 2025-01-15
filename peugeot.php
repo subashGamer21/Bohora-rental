@@ -35,7 +35,7 @@
                     <div class="car-booking-items">
     <div class="booking-header">
         <h3>Request for Booking</h3>
-        <p>Send your requirement to us. We will check your request and contact you soon.</p>
+        <p>Fill your requirement to us. We will check your request and contact you soon.</p>
     </div>
     <form action="sendemail.php" id="contact-form" method="POST" class="contact-form-items">
         <input type="hidden" name="car_name" value="Peugeot 308">
@@ -64,27 +64,24 @@
                 </div>
             </div>
 
-            <!-- Pick-up Date -->
-            <div class="col-lg-4">
-                <div class="form-clt">
-                    <label class="label-text">Pick-up Date</label>
-                    <div id="datepicker3" class="input-group date" data-date-format="dd-mm-yyyy">
-                        <input class="form-control" name="pickup_date" type="text" placeholder="Pick-up Date" readonly>
-                        <span class="input-group-addon"><i class="fa-solid fa-calendar-days"></i></span>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Drop-off Date -->
-            <div class="col-lg-4">
-                <div class="form-clt">
-                    <label class="label-text">Drop-off Date</label>
-                    <div id="datepicker4" class="input-group date" data-date-format="dd-mm-yyyy">
-                        <input class="form-control" name="dropoff_date" type="text" placeholder="Drop-off Date" readonly>
-                        <span class="input-group-addon"><i class="fa-solid fa-calendar-days"></i></span>
-                    </div>
-                </div>
-            </div>
+            <div class="col-lg-12">
+                                            <div class="form-clt">
+                                                <label class="label-text">Pick-up Date</label>
+                                                <div id="datepicker" class="input-group date" data-date-format="dd-mm-yyyy">
+                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
+                                                    <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <div class="form-clt">
+                                                <label class="label-text">Drop-off Date</label>
+                                                <div id="datepicker2" class="input-group date" data-date-format="dd-mm-yyyy">
+                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
+                                                    <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
+                                                </div>
+                                            </div>
+                                        </div>
 
             <!-- Submit Button -->
             <div class="col-lg-12">
@@ -95,19 +92,7 @@
         </div>
     </form>
 
-<!-- jQuery UI Datepicker Script -->
-<script>
-    $(document).ready(function() {
-        // Initialize the datepicker for both pick-up and drop-off dates
-        $("#datepicker3 input").datepicker({
-            dateFormat: "dd-mm-yy"
-        });
 
-        $("#datepicker4 input").datepicker({
-            dateFormat: "dd-mm-yy"
-        });
-    });
-</script>
                     </div>
                     <!-- End of Booking Form Section -->
 
@@ -171,6 +156,24 @@
                                 <img src="img/car/car-list-1.jpg" alt="MG Hector">
                                 <div class="details">
                                     MG Hector
+                                </div>
+                                <div class="rate">1200/day</div>
+                            </a>
+                        </div>
+                        <div class="car-item">
+                            <a href="mitsubishi.php">
+                                <img src="img/Cars/mitsubhi.jpg" alt="MG Hector">
+                                <div class="details">
+                                    Mitsubishi
+                                </div>
+                                <div class="rate">1200/day</div>
+                            </a>
+                        </div>
+                        <div class="car-item">
+                            <a href="navara.php">
+                                <img src="img/Cars/navara.jpg" alt="MG Hector">
+                                <div class="details">
+                                    navara
                                 </div>
                                 <div class="rate">1200/day</div>
                             </a>

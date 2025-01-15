@@ -43,7 +43,7 @@
                                    <span>2 Reviews</span> 
                                 </div>
                                 <h4><a href="peugeot.php">peugeot 308</a></h4>
-                                <h6>$70.00 <span>/ Day</span></h6>
+                                <h6>Rs 370.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
@@ -88,7 +88,7 @@
                                     <span>2 Reviews</span>
                                 </div>
                                 <h4><a href="navara.php">Navara</a></h4>
-                                <h6>$70.00 <span>/ Day</span></h6>
+                                <h6>Rs 370.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
@@ -133,7 +133,7 @@
                                     <span>2 Reviews</span>
                                 </div>
                                 <h4><a href="fordecosport.php">Ford Ecosport Trend</a></h4>
-                                <h6>$70.00 <span>/ Day</span></h6>
+                                <h6>Rs 370.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
@@ -178,7 +178,7 @@
                                     <span>2 Reviews</span>
                                 </div>
                                 <h4><a href="mitsubishi.php">Mitsubishi Pajero Exceed</a></h4>
-                                <h6>$70.00 <span>/ Day</span></h6>
+                                <h6>Rs 370.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
@@ -223,7 +223,7 @@
                                     <span>2 Reviews</span>
                                 </div>
                                 <h4><a href="mghector.php">MG Hector ZS</a></h4>
-                                <h6>$70.00 <span>/ Day</span></h6>
+                                <h6>Rs 370.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
@@ -268,7 +268,7 @@
                                     <span>2 Reviews</span>
                                 </div>
                                 <h4><a href="beetle.php">Beetle</a></h4>
-                                <h6>$70.00 <span>/ Day</span></h6>
+                                <h6>Rs 370.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>
@@ -314,7 +314,7 @@
                                     <span>2 Reviews</span>
                                 </div>
                                 <h4><a href="hondacity.php">Honda City</a></h4>
-                                <h6>$70.00 <span>/ Day</span></h6>
+                                <h6>Rs 370.00 <span>/ Day</span></h6>
                                 <div class="icon-items">
                                     <ul>
                                         <li>

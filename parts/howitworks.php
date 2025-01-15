@@ -9,7 +9,7 @@
                <div class="row">
                     <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                         <div class="how-works-items">
-                            <h6 class="title"><a href="car-details.php">Connect</a></h6>
+                            <h6 class="title"><a href="car-grid.php">Connect</a></h6>
                             <div class="icon-box">
                                 <div class="icon">
                                     <img src="img/how-work/icon-1.png" alt="img" class="icon-1">
@@ -23,7 +23,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
                         <div class="how-works-items">
-                            <h6 class="title"><a href="car-details.php">Share</a></h6>
+                            <h6 class="title"><a href="car-grid.php">Share</a></h6>
                             <div class="icon-box">
                                 <div class="icon">
                                     <img src="img/how-work/icon-2.png" alt="img" class="icon-1">
@@ -37,7 +37,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
                         <div class="how-works-items">
-                            <h6 class="title"><a href="car-details.php">Recommend</a></h6>
+                            <h6 class="title"><a href="car-grid.php">Recommend</a></h6>
                             <div class="icon-box">
                                 <div class="icon">
                                     <img src="img/how-work/icon-3.png" alt="img" class="icon-1">
@@ -51,7 +51,7 @@
                     </div>
                     <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                         <div class="how-works-items">
-                            <h6 class="title"><a href="car-details.php">Confirm</a></h6>
+                            <h6 class="title"><a href="car-grid.php">Confirm</a></h6>
                             <div class="icon-box">
                                 <div class="icon">
                                     <img src="img/how-work/icon-4.png" alt="img" class="icon-1">

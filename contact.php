@@ -35,7 +35,7 @@
                                         Drop us a Line
                                     </h2>
                                 </div>
-                                <form action="#" id="contact-form" method="POST" class="contact-form-items mt-5 mt-md-0">
+                                <form action="sendContact.php" id="contact-form" method="POST" class="contact-form-items mt-5 mt-md-0">
                                     <div class="row g-4">
                                         <div class="col-lg-6">
                                             <div class="form-clt">

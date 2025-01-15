@@ -5,11 +5,11 @@
                 <div class="cta-cheap-rental">
                     <div class="cta-cheap-rental-left wow fadeInUp" data-wow-delay="
                     .3s">
-                        <div class="logo-thumb">
-                            <a href="index.php">
-                                <img src="img/logo/white-logo.svg" alt="logo-img">
-                            </a>
-                        </div>
+                    <div class="logo">
+                                <a href="index.php" class="header-logo">
+                                    <img src="img/bohora-logo.png" alt="logo-img">
+                                </a>
+                            </div>
                         <h4 class="text-white">Save big with our cheap car rental</h4>
                     </div>
                     <div class="social-icon d-flex align-items-center wow fadeInUp" data-wow-delay="

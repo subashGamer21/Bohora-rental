@@ -1,4 +1,25 @@
-
+<?php include('header.php') ?>
+<!--<< Breadcrumb Section Start >>-->
+<div class="breadcrumb-wrapper bg-cover" style="background-image: url('img/bg-header-banner.jpg');">
+            <div class="container">
+                <div class="page-heading">
+                    <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
+                        <li>
+                            <a href="index.html">
+                                Home
+                            </a>
+                        </li>
+                        <li>
+                            <i class="fas fa-chevron-right"></i>
+                        </li>
+                        <li>
+                            BLog
+                        </li>
+                    </ul>
+                    <!-- <h1 class="wow fadeInUp" data-wow-delay=".5s">Peugeot</h1> -->
+                </div>
+            </div>
+        </div>
         <!-- News Details Section Start -->
         <section class="news-details-section fix section-padding">
             <div class="container">
@@ -23,16 +44,14 @@
                                             2 Comments
                                         </li>
                                     </ul>
-                                    <h3>The best fastest and most powerful road car</h3>
+                                    <h3>Explore Nepal with Bohora Car Rental: Your Travel Companion</h3>
                                     <p class="mt-3">
-                                        Lorem ipsum dolor sit amet, cibo mundi ea duo, vim exerci phaedrum. There are many variations of passages of Lorem Ipsum available, but the majority have alteration in some injected or  words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrang hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. 
+                                    Nepal is a land of stunning landscapes, rich culture, and endless adventures. Whether you’re planning a family vacation, a solo road trip, or a business tour, having the right car can make all the difference. At Bohora Car Rental, we’re here to provide you with the best vehicles and services to ensure your journey is nothing short of amazing.
                                     </p>
                                     <p class="mt-4">
-                                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type simen book. It has survived not only five centuries, but also the leap into electronic typesetting.
+                                    Our well-maintained cars and experienced drivers ensure safety and comfort throughout your journey. Whether you're exploring Kathmandu’s cultural gems, enjoying Pokhara’s serene beauty, or heading to the adventurous Mustang, we provide flexible rental options to meet your needs. Booking is simple—visit our website, select your travel dates, and choose your vehicle. Join countless satisfied travelers who trust Bohora Car Rental to make their trips memorable. Start your adventure with us today!
                                     </p>
-                                    <p class="mt-4">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. orem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                    </p>
+                                    
                                 </div>
                             </div>
                             <div class="tag-share-wrap mt-4 mb-4">
@@ -43,9 +62,8 @@
                                 </div>
                                 <div class="social-share d-flex align-items-center">
                                     <a href="news-details.php#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="news-details.php#"><i class="fab fa-twitter"></i></a>
-                                    <a href="news-details.php#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                    <a href="news-details.php#"><i class="fa-brands fa-youtube"></i></a>
+                                    <a href="news-details.php#"><i class="fab fa-instagram"></i></a>
+                                    
                                 </div>
                             </div>
                             <div class="row g-4">
@@ -64,41 +82,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="comment-reviews">
-                                <h3>2 Reviews</h3>
-                                <div class="single-comment d-flex gap-4 pb-5">
-                                    <div class="image">
-                                        <img src="img/car/comment01.png" alt="image">
-                                    </div>
-                                    <div class="content">
-                                        <div class="head d-flex flex-wrap gap-3 align-items-center justify-content-between">
-                                            <div class="con">
-                                                <h4>Kevin Martin</h4>
-                                            </div>
-                                            <a href="news-details.php" class="reply">Reply</a>
-                                        </div>
-                                        <p class="mt-4">
-                                            It has survived not only five centuries, but also the leap into electronic typesetting simply fee text aunchanged. It was popularised in the sheets containing lorem ipsum is simply free text.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="single-comment d-flex gap-4 pt-5 pb-5">
-                                    <div class="image">
-                                        <img src="img/car/comment02.png" alt="image">
-                                    </div>
-                                    <div class="content">
-                                        <div class="head d-flex flex-wrap gap-3 align-items-center justify-content-between">
-                                            <div class="con">
-                                                <h4>Sarah Albert</h4>
-                                            </div>
-                                            <a href="news-details.php" class="reply">Reply</a>
-                                        </div>
-                                        <p class="mt-4">
-                                            It has survived not only five centuries, but also the leap into electronic typesetting simply fee text aunchanged. It was popularised in the sheets containing lorem ipsum is simply free text.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
+                           
                             <div class="comment-form-wrap pt-5">
                                 <h3>Leave a comments</h3>
                                 <form action="#" id="contact-form" method="POST">
@@ -199,11 +183,11 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="single-sidebar-widget">
+                                <!-- <div class="single-sidebar-widget">
                                     <div class="wid-title">
                                         <h3>Categories</h3>
                                     </div>
-                                    <div class="news-widget-categories">
+                                     <div class="news-widget-categories">
                                         <ul>
                                             <li><a href="news-details.php">Rental <i class="fa-solid fa-arrow-right-long"></i></a></li>
                                             <li><a href="news-details.php">Luxury Cars <i class="fa-solid fa-arrow-right-long"></i></a></li>
@@ -211,8 +195,8 @@
                                             <li><a href="news-details.php">Dream Cars <i class="fa-solid fa-arrow-right-long"></i></a></li>
                                             <li><a href="news-details.php">Off Road <i class="fa-solid fa-arrow-right-long"></i></a></li>
                                         </ul>
-                                    </div>
-                                </div>
+                                    </div> 
+                                </div> -->
                                 <div class="single-sidebar-widget">
                                     <div class="wid-title">
                                         <h3>Tags</h3>
@@ -233,4 +217,5 @@
                 </div>
             </div>
         </section>
+        <?php include('footer.php') ?>
     

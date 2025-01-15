@@ -247,14 +247,11 @@
                                                 </ul> -->
                                             </li>
                                             <li>
-                                                <a href="news.php">
+                                                <a href="blog.php">
                                                     Blog
-                                                    <i class="fas fa-angle-down"></i>
+                                                   
                                                 </a>
-                                                <ul class="submenu">
-                                                    <li><a href="news.php">Blog</a></li>
-                                                    <li><a href="news-details.php">Blog Details</a></li>
-                                                </ul>
+                                                
                                             </li>
                                             <li>
                                                 <a href="contact.php">Contact</a>
@@ -274,11 +271,11 @@
                                     <h6><a href="tel:+977 980‑1136594">+977 980‑1136594‬</a></h6>
                                 </div>
                             </div>
-                            <div class="header-button">
+                            <!-- <div class="header-button">
                                 <a href="car-grid.php" class="header-btn">
-                                    Find a Car
+                                    Reserve Car
                                 </a>
-                            </div>
+                            </div> -->
                             <div class="header__hamburger d-xl-none my-auto">
                                 <div class="sidebar__toggle">
                                     <i class="fas fa-bars"></i>

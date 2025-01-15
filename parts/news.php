@@ -1,3 +1,6 @@
+   
+   <?php include('header.php') ?>
+   
    <!-- News Section Start -->
         <section class="news-section section-padding fix">
             <div class="container">
@@ -118,3 +121,4 @@
                 </div>
             </div>
         </section>
+        <?php include('footer.php') ?>
