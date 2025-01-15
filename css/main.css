@@ -11,7 +11,7 @@ Version: 1.0.0
   --body: #fff;
   --black: #000;
   --white: #fff;
-  --theme: #ff3726;
+  --theme: #ffcc26;
   --theme2: #005cb5;
   --header: #0c142e;
   --text: #77797e;
@@ -2808,7 +2808,7 @@ span {
 
 .header-top-section {
   background-color: #020202;
-  padding: 10px 60px;
+  padding: 1px 21px;
   position: relative;
   z-index: 9;
   border-top: 3px solid #020202;
@@ -2831,7 +2831,7 @@ span {
   height: 100%;
   width: 285px;
   content: "";
-  background-color: var(--white);
+  background-color: #000000;
   z-index: -1;
   clip-path: polygon(0 0, 90% 0%, 100% 100%, 0% 100%);
 }

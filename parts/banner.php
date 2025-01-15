@@ -1,16 +1,16 @@
-<!-- Search Area Start -->
-<div class="search-wrap">
-    <div class="search-inner">
-        <i class="fas fa-times search-close" id="search-close"></i>
-        <div class="search-cell">
-            <form method="get">
-                <div class="search-field-holder">
-                    <input type="search" class="main-search-input" placeholder="Search...">
+    <!-- Search Area Start
+    <div class="search-wrap">
+            <div class="search-inner">
+                <i class="fas fa-times search-close" id="search-close"></i>
+                <div class="search-cell">
+                    <form method="get">
+                        <div class="search-field-holder">
+                            <input type="search" class="main-search-input" placeholder="Search...">
+                        </div>
+                    </form>
                 </div>
-            </form>
-        </div>
-    </div>
-</div>
+            </div>
+        </div> -->
 
 <!-- Hero Section Start -->
 <section class="hero-section hero-3 fix">
@@ -22,10 +22,10 @@
             <i class="fa-solid fa-chevron-right"></i>
         </button>
     </div>
-    <h6 class="search-text">Book Any Car</h6>
-    <div class="line-icon">
+    <!-- <h6 class="search-text">Book Any Car</h6> -->
+    <!-- <div class="line-icon">
         <img src="img/hero/icon.png" alt="icon">
-    </div>
+    </div> -->
     <div class="swiper hero-slider-3">
         <div class="swiper-wrapper">
             <!-- Slide 1 -->

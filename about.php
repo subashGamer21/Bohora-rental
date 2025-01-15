@@ -60,8 +60,9 @@
                 </div>
             </div>
         </section>
+        
 
-        <!-- Team Section Start -->
+        <!-- Team Section Start
         <section class="team-section fix section-padding pt-0">
             <div class="container">
                 <div class="section-title text-center">
@@ -135,7 +136,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- Funfact Section Start -->
         <section class="funfact-section section-padding fix bg-cover mt-0" style="background-image: url('img/funfact-bg.jpg');">

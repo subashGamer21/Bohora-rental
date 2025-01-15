@@ -43,16 +43,7 @@
 Our rental service comes with a dedicated, experienced driver who is highly skilled, also polite, patient, and knowledgeable about Nepal’s diverse landscapes and road conditions. From the bustling streets of Kathmandu to the serene beauty of Pokhara, we’ll take you wherever you need to go with ease and comfort.
 
                                 </p>
-                                <div class="about-list-item wow fadeInUp" data-wow-delay=".7s">
-                                    <ul>
-                                        <li>
-                                            Many Pickup Locations
-                                        </li>
-                                        <li>
-                                            Offering Low Prices
-                                        </li>
-                                    </ul>
-                                </div>
+                                
                                 <a href="about.php" class="theme-btn wow fadeInUp" data-wow-delay=".8s">Discover More</a>
                             </div>
                         </div>

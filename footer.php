@@ -24,152 +24,70 @@
 
 
 <!-- Footer Section Start -->
-<footer class="footer-section fix">
-            <div class="container">
-                <div class="footer-widgets-wrapper">
-                    <div class="row justify-content-between">
-                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                            <div class="single-footer-widget shape-map">
-                                <div class="widget-head">
-                                    <h4>Contact</h4>
-                                </div>
-                                <div class="footer-content">
-                                    <p>
-                                        Kathmandu
-                                    </p>
-                                    <ul class="contact-info">
-                                        <li>
-                                            <i class="fa-regular fa-envelope"></i>
-                                            <a href="mailto:needhelp@company.com">info@boharacarrental.com</a>
-                                        </li>
-                                        <li>
-                                            <i class="fa-solid fa-phone-volume"></i>
-                                            <a href="tel:926668880000">+977 980‑1136594‬</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Contact</h4>
-                                </div>
-                                <ul class="list-items">
-                                    <li>
-                                        <a href="about.php"> 
-                                            About Us
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="car-details.php">
-                                             Cars
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="gallery.php">
-                                            Gallery
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="contact.php">
-                                            Contact
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Gallery</h4>
-                                </div>
-                                <div class="footer-gallery">
-                                    <div class="gallery-wrap">
-                                        <div class="gallery-item">
-                                            <div class="thumb">
-                                                <a href="img/footer/gallery-1.jpg" class="img-popup">
-                                                    <img src="img/footer/gallery-1.jpg" alt="gallery-img">
-                                                    <div class="icon">
-                                                        <i class="far fa-plus"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div class="thumb">
-                                                <a href="img/footer/gallery-2.jpg" class="img-popup">
-                                                    <img src="img/footer/gallery-2.jpg" alt="gallery-img">
-                                                    <div class="icon">
-                                                        <i class="far fa-plus"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div class="thumb">
-                                                <a href="img/footer/gallery-3.jpg" class="img-popup">
-                                                    <img src="img/footer/gallery-3.jpg" alt="gallery-img">
-                                                    <div class="icon">
-                                                        <i class="far fa-plus"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item">
-                                            <div class="thumb">
-                                                <a href="img/footer/gallery-4.jpg" class="img-popup">
-                                                    <img src="img/footer/gallery-4.jpg" alt="gallery-img">
-                                                    <div class="icon">
-                                                        <i class="far fa-plus"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div class="thumb">
-                                                <a href="img/footer/gallery-5.jpg" class="img-popup">
-                                                    <img src="img/footer/gallery-5.jpg" alt="gallery-img">
-                                                    <div class="icon">
-                                                        <i class="far fa-plus"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div class="thumb">
-                                                <a href="img/footer/gallery-6.jpg" class="img-popup">
-                                                    <img src="img/footer/gallery-6.jpg" alt="gallery-img">
-                                                    <div class="icon">
-                                                        <i class="far fa-plus"></i>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
-                            <div class="single-footer-widget">
-                                <div class="widget-head">
-                                    <h4>Subscribe</h4>
-                                </div>
-                                <div class="footer-content">
-                                    <p>Subscribe our newsletter to get our latest updates</p>
-                                    <div class="footer-input">
-                                        <input type="email" id="email2" placeholder="Email address">
-                                        <button class="newsletter-btn" type="submit">
-                                            <i class="fa-regular fa-paper-plane"></i>
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-bottom">
-                    <div class="footer-wrapper">
-                        <p class="wow fadeInUp" data-wow-delay=".4s">
-                            © Copyright 2024 by <a href="index.php">BohoraCarRental.com</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </footer>
+<footer class="footer-section" style="background: #2d2d2d; color: #fff; padding: 50px 0; font-family: Arial, sans-serif;">
+  <div class="container">
+    <div class="footer-widgets-wrapper">
+      <div class="row">
+        <!-- Contact Information -->
+        <div class="col-xl-4 col-lg-4 col-md-6" style="margin-bottom: 30px;">
+          <div style="border-left: 4px solid #f39c12; padding-left: 15px;">
+            <h4 style="font-size: 20px; color: #f39c12;">Contact Us</h4>
+            <p>Kathmandu, Nepal</p>
+            <ul style="list-style: none; padding: 0;">
+              <li style="margin: 10px 0;">
+                <i class="fa-regular fa-envelope" style="margin-right: 10px; color: #f39c12;"></i>
+                <a href="mailto:info@boharacarrental.com" style="color: #fff; text-decoration: none;">info@boharacarrental.com</a>
+              </li>
+              <li style="margin: 10px 0;">
+                <i class="fa-solid fa-phone-volume" style="margin-right: 10px; color: #f39c12;"></i>
+                <a href="tel:+9779801136594" style="color: #fff; text-decoration: none;">+977 980-1136594</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Quick Links -->
+        <div class="col-xl-2 col-lg-2 col-md-6" style="margin-bottom: 30px;">
+          <h4 style="font-size: 20px; color: #f39c12;">Quick Links</h4>
+          <ul style="list-style: none; padding: 0;">
+            <li style="margin: 10px 0;">
+              <a href="about.php" style="color: #fff; text-decoration: none;">About Us</a>
+            </li>
+            <li style="margin: 10px 0;">
+              <a href="car-details.php" style="color: #fff; text-decoration: none;">Cars</a>
+            </li>
+            <li style="margin: 10px 0;">
+              <a href="gallery.php" style="color: #fff; text-decoration: none;">Gallery</a>
+            </li>
+            <li style="margin: 10px 0;">
+              <a href="contact.php" style="color: #fff; text-decoration: none;">Contact</a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- Map Section -->
+        <div class="col-xl-6 col-lg-6 col-md-12" style="margin-bottom: 30px;">
+          <h4 style="font-size: 20px; color: #f39c12;">Our Location</h4>
+          <div style="width: 100%; height: 300px; margin-top: 15px;">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3533.281041814292!2d85.31673081506105!3d27.678248032805366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb198db1b04f29%3A0xeba6c707cbd8c31b!2sPashupatinath%20Temple!5e0!3m2!1sen!2snp!4v1619444298054!5m2!1sen!2snp"
+              style="width: 100%; height: 100%; border: 0;"
+              allowfullscreen=""
+              loading="lazy">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom" style="border-top: 1px solid #444; padding-top: 20px; text-align: center;">
+      <p style="margin: 0; font-size: 14px;">&copy; Copyright 2024 by 
+        <a href="index.php" style="color: #f39c12; text-decoration: none;">BohoraCarRental.com</a>
+      </p>
+    </div>
+  </div>
+</footer>
+
         <!-- <script src="js/custom.js"></script> -->
         <!--<< All JS Plugins >>-->
         <script src="js/jquery-3.7.1.min.js"></script>

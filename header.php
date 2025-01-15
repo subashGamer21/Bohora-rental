@@ -103,9 +103,9 @@
                                 </button>
                             </div>
                         </div>
-                        <p class="text d-none d-xl-block">
+                        <!-- <p class="text d-none d-xl-block">
                             Nullam dignissim, ante scelerisque the  is euismod fermentum odio sem semper the is erat, a feugiat leo urna eget eros. Duis Aenean a imperdiet risus.
-                        </p>
+                        </p> -->
                         <div class="mobile-menu fix mb-3"></div>
                         <div class="offcanvas__contact">
                             <h4>Contact Info</h4>
@@ -115,7 +115,7 @@
                                         <i class="fal fa-map-marker-alt"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a target="_blank" href="index.php#">Main Street, Melbourne, Australia</a>
+                                        <a target="_blank" href="index.php#">Kathmandu</a>
                                     </div>
                                 </li>
                                 <li class="d-flex align-items-center">
@@ -123,23 +123,23 @@
                                         <i class="fal fa-envelope"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a href="mailto:info@example.com"><span class="mailto:info@example.com">info@example.com</span></a>
+                                        <a href="mailto:info@example.com"><span class="mailto:info@example.com">info@boharacarrental.com</span></a>
                                     </div>
                                 </li>
-                                <li class="d-flex align-items-center">
+                                <!-- <li class="d-flex align-items-center">
                                     <div class="offcanvas__contact-icon mr-15">
                                         <i class="fal fa-clock"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a target="_blank" href="index.php#">Mod-friday, 09am -05pm</a>
-                                    </div>
-                                </li>
+                                        <a target="_blank" href="index.php#">Sun-Sat, 09am -05pm</a>
+                                    </div> -->
+                                <!-- </li> -->
                                 <li class="d-flex align-items-center">
                                     <div class="offcanvas__contact-icon mr-15">
                                         <i class="far fa-phone"></i>
                                     </div>
                                     <div class="offcanvas__contact-text">
-                                        <a href="tel:+11002345909">+11002345909</a>
+                                        <a href="tel:+11002345909">+977 980‑1136594‬</a>
                                     </div>
                                 </li>
                             </ul>
@@ -175,13 +175,13 @@
                         </li>
                     </ul>
                     <div class="header-top-right">
-                        <ul class="top-list">
+                        <!-- <ul class="top-list">
                             <li><a href="contact.php">Help</a></li>
                             <li>/</li>
                             <li><a href="contact.php">Support</a></li>
                             <li>/</li>
                             <li><a href="contact.php">Contact</a></li>
-                        </ul>
+                        </ul> -->
                         <div class="social-icon d-flex align-items-center">
                             <a href="index.php#"><i class="fa-brands fa-facebook"></i></a>
                             <a href="index.php#"><i class="fa-brands fa-instagram"></i></a>
@@ -200,14 +200,14 @@
                         <div class="header-left">
                             <div class="logo">
                                 <a href="index.php" class="header-logo">
-                                    <img src="img/logo/black-logo.svg" alt="logo-img">
+                                    <img src="img/bohora-logo.png" alt="logo-img">
                                 </a>
                             </div>
                             <div class="mean__menu-wrapper">
                                 <div class="main-menu">
                                     <nav id="mobile-menu">
                                         <ul>
-                                            <li></li>
+                                            
                                         
                                             <li class="has-dropdown active menu-thumb">
                                                 <a href="index.php">
@@ -223,16 +223,7 @@
                                             <li>
                                                 <a href="about.php">About Us</a>
                                             </li>
-                                            <li class="has-dropdown">
-                                                <a href="gallery.php">
-                                                  Gallery
-                                                    <!-- <i class="fas fa-angle-down"></i> -->
-                                                </a>
-                                                <!-- <ul class="submenu">
-                                                    <li><a href="gallery.php">Gallery</a></li>
-                                                    <li><a href="faq.php">Faq's</a></li>
-                                                </ul> -->
-                                            </li>
+                                            
                                             <li>
                                                 <a href="car-grid.php">
                                                     Cars
@@ -245,7 +236,17 @@
                                                     <li><a href="car-details.php">Car Details</a></li>
                                                 </ul> -->
                                             </li>
-                                            <!-- <li>
+                                            <li class="has-dropdown">
+                                                <a href="gallery.php">
+                                                  Gallery
+                                                    <!-- <i class="fas fa-angle-down"></i> -->
+                                                </a>
+                                                <!-- <ul class="submenu">
+                                                    <li><a href="gallery.php">Gallery</a></li>
+                                                    <li><a href="faq.php">Faq's</a></li>
+                                                </ul> -->
+                                            </li>
+                                            <li>
                                                 <a href="news.php">
                                                     Blog
                                                     <i class="fas fa-angle-down"></i>
@@ -254,7 +255,7 @@
                                                     <li><a href="news.php">Blog</a></li>
                                                     <li><a href="news-details.php">Blog Details</a></li>
                                                 </ul>
-                                            </li> -->
+                                            </li>
                                             <li>
                                                 <a href="contact.php">Contact</a>
                                             </li>
@@ -274,7 +275,7 @@
                                 </div>
                             </div>
                             <div class="header-button">
-                                <a href="car-details.php" class="header-btn">
+                                <a href="car-grid.php" class="header-btn">
                                     Find a Car
                                 </a>
                             </div>
