@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = htmlspecialchars($_POST['name']);
     $email = htmlspecialchars($_POST['email']);
     $phone = htmlspecialchars($_POST['phone']);
-    $address = htmlspecialchars($_POST['address']);
+    // $address = htmlspecialchars($_POST['address']);
     $location = htmlspecialchars($_POST['location']);
     $pickup_date = htmlspecialchars($_POST['pickup_date']);
     $dropoff_date = htmlspecialchars($_POST['dropoff_date']);
@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Gmail credentials
     $gmailUser = 'subashgiri939@gmail.com'; // Replace with your Gmail address
-    $gmailPassword = ''; // Replace with your Gmail app password
+    $gmailPassword = 'ochy hfbb zlmy kloj'; // Replace with your Gmail app password
 
     // Create a new PHPMailer instance
     $mail = new PHPMailer(true);
@@ -47,8 +47,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <p><strong>Name:</strong> $name</p>
     <p><strong>Car Name:</strong> $car_name</p>  <!-- Car Name Added -->
     <p><strong>Phone:</strong> $phone</p>
-    <p><strong>Address:</strong> $address</p>
-    <p><strong>Pick-up Location:</strong> $location</p>
+    <p><strong>Drop -off Location:</strong> $location</p>
     <p><strong>Pick-up Date:</strong> $pickup_date</p>
     <p><strong>Drop-off Date:</strong> $dropoff_date</p>
     <p>Thank you for your booking! We will contact you shortly for further details.</p>
@@ -57,8 +56,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             Your booking request has been received:
             Name: $name
             Phone: $phone
-            Address: $address
-            Pick-up Location: $location
+          
+            Drop off Location: $location
             Pick-up Date: $pickup_date
             Drop-off Date: $dropoff_date
             Thank you for your booking! We will contact you shortly for further details.
@@ -77,8 +76,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <p><strong>Car Name:</strong> $car_name</p>  <!-- Car Name Added -->
         <p><strong>Email:</strong> $email</p>
         <p><strong>Phone:</strong> $phone</p>
-        <p><strong>Address:</strong> $address</p>
-        <p><strong>Pick-up Location:</strong> $location</p>
+       
+        <p><strong>Drop off:</strong> $location</p>
         <p><strong>Pick-up Date:</strong> $pickup_date</p>
         <p><strong>Drop-off Date:</strong> $dropoff_date</p>
         <p>Please review the details for further action.</p>
@@ -89,7 +88,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             Email: $email
             Phone: $phone
             Address: $address
-            Pick-up Location: $location
+           Drop-of Location: $location
             Pick-up Date: $pickup_date
             Drop-off Date: $dropoff_date
             Car name : $car_name

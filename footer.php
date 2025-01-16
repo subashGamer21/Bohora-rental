@@ -54,7 +54,7 @@
               <a href="about.php" style="color: #fff; text-decoration: none;">About Us</a>
             </li>
             <li style="margin: 10px 0;">
-              <a href="car-details.php" style="color: #fff; text-decoration: none;">Cars</a>
+              <a href="car-grid.php" style="color: #fff; text-decoration: none;">Cars</a>
             </li>
             <li style="margin: 10px 0;">
               <a href="gallery.php" style="color: #fff; text-decoration: none;">Gallery</a>

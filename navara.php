@@ -40,11 +40,11 @@
     <form action="sendemail.php" id="contact-form" method="POST" class="contact-form-items">
         <input type="hidden" name="car_name" value="Peugeot 308">
         <div class="row">
-            <!-- Name Field -->
-            <div class="col-lg-6">
+          <!-- Name Field -->
+          <div class="col-lg-6">
                 <div class="form-clt">
                     <label class="label-text">Your Name</label>
-                    <input type="text" name="name" id="name" placeholder="Your Name" class="input-field">
+                    <input type="text" name="name" id="name" placeholder="Your Name" class="input-field" required>
                 </div>
             </div>
             
@@ -52,7 +52,7 @@
             <div class="col-lg-6">
                 <div class="form-clt">
                     <label class="label-text">Email</label>
-                    <input type="text" name="email" id="email" placeholder="example@gmail.com" class="input-field">
+                    <input type="text" name="email" id="email" placeholder="example@gmail.com" class="input-field" >
                 </div>
             </div>
 
@@ -60,7 +60,14 @@
             <div class="col-lg-6">
                 <div class="form-clt">
                     <label class="label-text">Phone Number</label>
-                    <input type="text" name="phone" id="phone" placeholder="+977 00 0000 - 000" class="input-field">
+                    <input type="text" name="phone" id="phone" placeholder="+977 00 0000 - 000" class="input-field" required>
+                </div>
+            </div>
+            
+            <div class="col-lg-6">
+                <div class="form-clt">
+                    <label class="label-text">Drop-off Location</label>
+                    <input type="text" name="location" id="location" placeholder="koteshor" class="input-field" required>
                 </div>
             </div>
 
@@ -68,7 +75,7 @@
                                             <div class="form-clt">
                                                 <label class="label-text">Pick-up Date</label>
                                                 <div id="datepicker" class="input-group date" data-date-format="dd-mm-yyyy">
-                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
+                                                    <input name='pickup_date' class="form-control" type="text" placeholder="Check in" readonly>
                                                     <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
                                                 </div>
                                             </div>
@@ -77,12 +84,11 @@
                                             <div class="form-clt">
                                                 <label class="label-text">Drop-off Date</label>
                                                 <div id="datepicker2" class="input-group date" data-date-format="dd-mm-yyyy">
-                                                    <input class="form-control" type="text" placeholder="Check in" readonly>
+                                                    <input class="form-control" type="text" name = 'dropoff_date' placeholder="Check in" readonly>
                                                     <span class="input-group-addon"> <i class="fa-solid fa-calendar-days"></i></span>
                                                 </div>
                                             </div>
                                         </div>
-
             <!-- Submit Button -->
             <div class="col-lg-12">
                 <button class="theme-btn animated-btn" type="submit">

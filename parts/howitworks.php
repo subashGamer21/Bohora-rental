@@ -9,7 +9,7 @@
                <div class="row">
                     <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                         <div class="how-works-items">
-                            <h6 class="title"><a href="car-grid.php">Connect</a></h6>
+                            <h6 class="title"><a href="car-grid.php">ConTact</a></h6>
                             <div class="icon-box">
                                 <div class="icon">
                                     <img src="img/how-work/icon-1.png" alt="img" class="icon-1">
@@ -17,7 +17,7 @@
                                 </div>
                             </div>
                             <p>
-                            	Contact Us via phone, email, or WhatsApp.
+                            	Contact Us via phone, website, email, or WhatsApp.
                             </p>
                         </div>
                     </div>
