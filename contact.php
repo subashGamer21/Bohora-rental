@@ -6,7 +6,7 @@
                 <div class="page-heading">
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
                         <li>
-                            <a href="index.php">
+                            <!-- <a href="index.php">
                                 Home
                             </a>
                         </li>
@@ -15,7 +15,7 @@
                         </li>
                         <li>
                             Contact
-                        </li>
+                        </li> -->
                     </ul>
                     <h1 class="wow fadeInUp" data-wow-delay=".5s">Contact</h1>
                 </div>

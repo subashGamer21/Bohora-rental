@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="page-heading">
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
-                        <li>
+                        <!-- <li>
                             <a href="index.html">
                                 Home
                             </a>
@@ -14,9 +14,9 @@
                         </li>
                         <li>
                            BLog
-                        </li>
+                        </li> -->
                     </ul>
-                    <!-- <h1 class="wow fadeInUp" data-wow-delay=".5s">Peugeot</h1> -->
+                    <h1 class="wow fadeInUp" data-wow-delay=".5s">BLog</h1>
                 </div>
             </div>
         </div>
@@ -44,10 +44,10 @@
                                     <h3><a href="news1.php">Top Reasons to Choose Bohora Car Rental for Your Next Journey…</p>
                                 </div>
                                 <ul>
-                                    <li>
+                                    <!-- <li>
                                         <i class="fa-solid fa-comments"></i>
                                         2 Comments
-                                    </li>
+                                    </li> -->
                                     <li>
                                        <a href="news1.php">
                                             <i class="fa-solid fa-arrow-right-long"></i>
@@ -78,10 +78,10 @@
                                     <h3><a href="news2.php">Explore Nepal with Bohora Car Rental: Your Travel Companion…</p>
                                 </div>
                                 <ul>
-                                    <li>
+                                    <!-- <li>
                                         <i class="fa-solid fa-comments"></i>
                                         2 Comments
-                                    </li>
+                                    </li> -->
                                     <li>
                                        <a href="news2.php">
                                             <i class="fa-solid fa-arrow-right-long"></i>
@@ -112,10 +112,10 @@
                                     <h3><a href="news3.php">Why Renting a Car is Better Than Owning One…</p>
                                 </div>
                                 <ul>
-                                    <li>
+                                    <!-- <li>
                                         <i class="fa-solid fa-comments"></i>
                                         2 Comments
-                                    </li>
+                                    </li> -->
                                     <li>
                                        <a href="news3.php">
                                             <i class="fa-solid fa-arrow-right-long"></i>

@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="page-heading">
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
-                        <li>
+                        <!-- <li>
                             <a href="index.php">
                                 Home
                             </a>
@@ -14,7 +14,7 @@
                         </li>
                         <li>
                            Gallery
-                        </li>
+                        </li> -->
                     </ul>
                     <h1 class="wow fadeInUp" data-wow-delay=".5s">Gallery</h1>
                 </div>

@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Gmail credentials
     $gmailUser = 'subashgiri939@gmail.com'; // Replace with your Gmail address
-    $gmailPassword = ''; // Replace with your Gmail app password
+    $gmailPassword = 'tbub jgpc jmwp iznl'; // Replace with your Gmail app password
 
     // Create a new PHPMailer instance
     $mail = new PHPMailer(true);

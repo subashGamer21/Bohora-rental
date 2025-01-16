@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="page-heading">
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
-                        <li>
+                        <!-- <li>
                             <a href="index.html">
                                 Home
                             </a>
@@ -14,7 +14,7 @@
                         </li>
                         <li>
                             BLog
-                        </li>
+                        </li> -->
                     </ul>
                     <!-- <h1 class="wow fadeInUp" data-wow-delay=".5s">Peugeot</h1> -->
                 </div>
@@ -39,10 +39,10 @@
                                         <li>
                                             /
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <i class="fa-solid fa-comments"></i>
                                             2 Comments
-                                        </li>
+                                        </li> -->
                                     </ul>
                                     <h3>Explore Nepal with Bohora Car Rental: Your Travel Companion</h3>
                                     <p class="mt-3">
@@ -57,12 +57,12 @@
                             <div class="tag-share-wrap mt-4 mb-4">
                                 <div class="tagcloud">   
                                     <span>Tags</span>                                
-                                    <a href="news-details.php">Off Road</a>
-                                    <a href="news-details.php">Luxury</a>
+                                    <a >Off Road</a>
+                                    <a >Luxury</a>
                                 </div>
                                 <div class="social-share d-flex align-items-center">
-                                    <a href="news-details.php#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="news-details.php#"><i class="fab fa-instagram"></i></a>
+                                    <a href="blog.php#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="blog.php#"><i class="fab fa-instagram"></i></a>
                                     
                                 </div>
                             </div>
@@ -129,18 +129,17 @@
                                                 <img src="img/news/pp1.jpg" alt="img">
                                             </div>
                                             <div class="recent-content">
-                                                <ul>
+                                              <!-- <ul>
                                                     <li>
                                                         <i class="fa-solid fa-comments"></i>
                                                         2 Comments
-                                                    </li>
-                                                </ul>
+                                                    </li> 
+                                                </ul> -->
                                                 <h6>
-                                                    <a href="news-details.php">
-                                                        Hassle-free Rental
-                                                        Experience
+                                                    <a href="news3.php">
+                                                    Why Renting a Car is Better Than Owning One
                                                     </a>
-                                                </h6>
+                                                </h6> 
                                             </div>
                                         </div>
                                         <div class="recent-items">
@@ -148,42 +147,41 @@
                                                 <img src="img/news/pp2.jpg" alt="img">
                                             </div>
                                             <div class="recent-content">
-                                                <ul>
+                                                <!-- <ul>
                                                     <li>
                                                         <i class="fa-solid fa-comments"></i>
                                                         2 Comments
                                                     </li>
-                                                </ul>
+                                                </ul> -->
                                                 <h6>
-                                                    <a href="news-details.php">
-                                                        Hassle-free Rental
-                                                        Experience
+                                                    <a href="news1.php">
+                                                    Top Reasons to Choose Bohora Car Rental for Your Next Journey…
                                                     </a>
                                                 </h6>
-                                            </div>
+                                            </div> 
                                         </div>
                                         <div class="recent-items">
-                                            <div class="recent-thumb">
+                                             <div class="recent-thumb">
                                                 <img src="img/news/pp3.jpg" alt="img">
                                             </div>
                                             <div class="recent-content">
-                                                <ul>
+                                                <!-- <ul>
                                                     <li>
                                                         <i class="fa-solid fa-comments"></i>
                                                         2 Comments
                                                     </li>
-                                                </ul>
+                                                </ul> -->
                                                 <h6>
-                                                    <a href="news-details.php">
-                                                        Hassle-free Rental
-                                                        Experience
+                                                    <a href="news2.php">
+                                                    Explore Nepal with Bohora Car Rental: Your Travel Companion…
                                                     </a>
                                                 </h6>
-                                            </div>
+                                            </div> 
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="single-sidebar-widget">
+                             </div>
+                                 <!-- <div class="single-sidebar-widget">
                                     <div class="wid-title">
                                         <h3>Categories</h3>
                                     </div>
@@ -196,8 +194,8 @@
                                             <li><a href="news-details.php">Off Road <i class="fa-solid fa-arrow-right-long"></i></a></li>
                                         </ul>
                                     </div> 
-                                </div> -->
-                                <div class="single-sidebar-widget">
+                                </div>  -->
+                                <!-- <div class="single-sidebar-widget">
                                     <div class="wid-title">
                                         <h3>Tags</h3>
                                     </div>
@@ -210,9 +208,9 @@
                                             <a href="news-details.php">Engine</a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
-                        </div>
+                        </div> 
                     </div>
                 </div>
             </div>

@@ -48,7 +48,7 @@
                                     <p class="mt-3">
                                     Owning a car can be convenient, but it also comes with high costs and responsibilities. For many travelers and city dwellers, renting a car has become a smarter choice. At Bohora Car Rental, we provide the flexibility and affordability that makes renting a practical alternative.
 
-When you rent a car, you save on expenses like maintenance, insurance, and taxes, which are unavoidable for car owners. Additionally, renting gives you access to a wide range of vehicles suited for various occasions—whether it's a compact car for daily errands, an SUV for off-road adventures, or a luxury car for special events. It’s a cost-effective solution, especially for those who don’t need a vehicle every day.
+                                        When you rent a car, you save on expenses like maintenance, insurance, and taxes, which are unavoidable for car owners. Additionally, renting gives you access to a wide range of vehicles suited for various occasions—whether it's a compact car for daily errands, an SUV for off-road adventures, or a luxury car for special events. It’s a cost-effective solution, especially for those who don’t need a vehicle every day.
                                     <p class="mt-4">
                                     Car rentals are also perfect for travelers, as they allow you to explore new destinations without worrying about wear and tear on your personal vehicle. With Bohora Car Rental, you get well-maintained cars, 24/7 customer support, and the freedom to travel at your own pace. So why own when you can rent hassle-free?
                                     
@@ -57,12 +57,12 @@ When you rent a car, you save on expenses like maintenance, insurance, and taxes
                             <div class="tag-share-wrap mt-4 mb-4">
                                 <div class="tagcloud">   
                                     <span>Tags</span>                                
-                                    <a href="news-details.php">Off Road</a>
-                                    <a href="news-details.php">Luxury</a>
+                                    <a >Off Road</a>
+                                    <a >Luxury</a>
                                 </div>
                                 <div class="social-share d-flex align-items-center">
-                                    <a href="news-details.php#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="news-details.php#"><i class="fab fa-instagram"></i></a>
+                                    <a href="blog.php#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="blog.php#"><i class="fab fa-instagram"></i></a>
                                     
                                 </div>
                             </div>
@@ -129,18 +129,17 @@ When you rent a car, you save on expenses like maintenance, insurance, and taxes
                                                 <img src="img/news/pp1.jpg" alt="img">
                                             </div>
                                             <div class="recent-content">
-                                                <ul>
+                                              <!-- <ul>
                                                     <li>
                                                         <i class="fa-solid fa-comments"></i>
                                                         2 Comments
-                                                    </li>
-                                                </ul>
+                                                    </li> 
+                                                </ul> -->
                                                 <h6>
-                                                    <a href="news-details.php">
-                                                        Hassle-free Rental
-                                                        Experience
+                                                    <a href="news3.php">
+                                                    Why Renting a Car is Better Than Owning One
                                                     </a>
-                                                </h6>
+                                                </h6> 
                                             </div>
                                         </div>
                                         <div class="recent-items">
@@ -148,38 +147,36 @@ When you rent a car, you save on expenses like maintenance, insurance, and taxes
                                                 <img src="img/news/pp2.jpg" alt="img">
                                             </div>
                                             <div class="recent-content">
-                                                <ul>
+                                                <!-- <ul>
                                                     <li>
                                                         <i class="fa-solid fa-comments"></i>
                                                         2 Comments
                                                     </li>
-                                                </ul>
+                                                </ul> -->
                                                 <h6>
-                                                    <a href="news-details.php">
-                                                        Hassle-free Rental
-                                                        Experience
+                                                    <a href="news1.php">
+                                                    Top Reasons to Choose Bohora Car Rental for Your Next Journey…
                                                     </a>
                                                 </h6>
-                                            </div>
+                                            </div> 
                                         </div>
                                         <div class="recent-items">
-                                            <div class="recent-thumb">
+                                             <div class="recent-thumb">
                                                 <img src="img/news/pp3.jpg" alt="img">
                                             </div>
                                             <div class="recent-content">
-                                                <ul>
+                                                <!-- <ul>
                                                     <li>
                                                         <i class="fa-solid fa-comments"></i>
                                                         2 Comments
                                                     </li>
-                                                </ul>
+                                                </ul> -->
                                                 <h6>
-                                                    <a href="news-details.php">
-                                                        Hassle-free Rental
-                                                        Experience
+                                                    <a href="news2.php">
+                                                    Explore Nepal with Bohora Car Rental: Your Travel Companion…
                                                     </a>
                                                 </h6>
-                                            </div>
+                                            </div> 
                                         </div>
                                     </div>
                                 </div>
@@ -197,7 +194,7 @@ When you rent a car, you save on expenses like maintenance, insurance, and taxes
                                         </ul>
                                     </div> 
                                 </div> -->
-                                <div class="single-sidebar-widget">
+                                <!-- <div class="single-sidebar-widget">
                                     <div class="wid-title">
                                         <h3>Tags</h3>
                                     </div>
@@ -210,7 +207,7 @@ When you rent a car, you save on expenses like maintenance, insurance, and taxes
                                             <a href="news-details.php">Engine</a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

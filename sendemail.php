@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Gmail credentials
     $gmailUser = 'subashgiri939@gmail.com'; // Replace with your Gmail address
-    $gmailPassword = 'ochy hfbb zlmy kloj'; // Replace with your Gmail app password
+    $gmailPassword = 'tbub jgpc jmwp iznl'; // Replace with your Gmail app password
 
     // Create a new PHPMailer instance
     $mail = new PHPMailer(true);
@@ -42,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->addAddress($email, $name); // Send to the customer's email address
         $mail->isHTML(true);
         $mail->Subject = 'Booking Confirmation';
-        $mail->Body = "
+        $mail->Body = "tbub jgpc jmwp iznl
     <h3>Your booking request has been received:</h3>
     <p><strong>Name:</strong> $name</p>
     <p><strong>Car Name:</strong> $car_name</p>  <!-- Car Name Added -->

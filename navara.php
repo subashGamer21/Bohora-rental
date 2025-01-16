@@ -8,7 +8,7 @@
             <div class="container">
                 <div class="page-heading">
                     <ul class="breadcrumb-items wow fadeInUp" data-wow-delay=".3s">
-                        <li>
+                        <!-- <li>
                             <a href="index.html">
                                 Home
                             </a>
@@ -18,7 +18,7 @@
                         </li>
                         <li>
                             Car
-                        </li>
+                        </li> -->
                     </ul>
                     <h1 class="wow fadeInUp" data-wow-delay=".5s">Navara</h1>
                 </div>
